@@ -1,0 +1,69 @@
+<!-- <section class="hero is-dark is-small">
+  <div class="hero-body container">
+    <div class="has-text-centered has-text-white">
+      <a href="https://www.facebook.com/Ubizoeventsandtours/" alt="Ubizo Events and Tours Facebook">
+        <span class="icon is-large"><i class="fa fa-facebook-square"></i></span>
+      </a>
+      <a href="https://www.instagram.com/ubizosa/" alt="Ubizo Events and Tours Instagram">
+        <span class="icon is-large"><i class="fa fa-instagram"></i></span>
+      </a>
+      <a href="https://twitter.com/ubizosa" alt="Ubizo Events and Tours Twitter">
+        <span class="icon is-large"><i class="fa fa-twitter-square"></i></span>
+      </a>
+    </div>
+  </div>
+</section>
+<footer class="footer is-dark">
+  <div class="container">
+      <div class="columns content">
+        <div class="column has-text-centered is-capitalized is-smallcaps">Ubizo Events &amp; Tours</div>
+        <div class="column has-text-centered is-capitalized is-smallcaps">Langa, Cape Town</div>
+        <div class="column has-text-centered is-capitalized is-smallcaps">Phone number</div>
+      </div>
+      <p class="has-text-grey has-text-centered is-size-7">Design inspired by <a href="https://www.squarespace.com/">Squarespace</a></p>
+  </div>
+</footer> -->
+
+<footer class="footer tao-footer">
+  <div class="level">
+    <div class="level-left"></div>
+    <div class="level-right">
+      <a href="https://www.linkedin.com/in/temitope-ogunyoku-phd-7424a62b" alt="Temitope A. Ogunyoku Linked-In profile">
+        <span class="icon is-medium"><i class="fa fa-linkedin-square"></i></span>
+      </a>
+      <a href="mailto:Taogunyoku@gmail.com" alt="Email me">
+        <span class="icon is-medium"><i class="fa fa-envelope"></i></span>
+      </a>
+    </div>
+  </div>
+</footer>
+
+<!-- Closing the container -->
+</div>
+
+<script lang="javascript">
+  document.addEventListener('DOMContentLoaded', function () {
+    // Get all "navbar-burger" elements
+    var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+    // Check if there are any nav burgers
+    if ($navbarBurgers.length > 0) {
+
+      // Add a click event on each of them
+      $navbarBurgers.forEach(function ($el) {
+        $el.addEventListener('click', function () {
+
+          // Get the target from the "data-target" attribute
+          var target = $el.dataset.target;
+          var $target = document.getElementById(target);
+
+          // Toggle the class on both the "navbar-burger" and the "navbar-menu"
+          $el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+
+        });
+      });
+    }
+
+  });
+</script>
