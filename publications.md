@@ -1,5 +1,6 @@
 ---
 layout: publications
+permalink: /publications/
 ---
 **Patents**
 - **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. *Using sensory simulation during user testing to obtain a user’s initial and natural reactions of a product or service.* 2016.
