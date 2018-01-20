@@ -4,14 +4,22 @@ layout: default
 
   <section class="section">
       <div class="columns">
-        <div class="column is-5"><img src="https://static1.squarespace.com/static/57bc63e837c5819f22eb9d65/t/57c4671520099edbe4187f04/1472490486124/" alt="Temi Ogunyoku"></div>
+        {% for image in site.static_files %}
+          {% if image.path contains 'images/headshot' %}
+            <div class="column is-5"><img src="{{image.path}}" alt="Temi Ogunyoku"></div>
+          {% endif %}
+        {% endfor %}
         <div class="column">
           {{content}}
           <p>
             <div class="level">
               <div class="level-left"></div>
               <div class="level-right">
-                <a href="#" class="button is-primary is-outlined">CURRICULUM VITAE</a>       
+                {% for cv in site.static_files %}
+                  {% if cv.path contains 'Ogunyoku_CV' %}
+                    <a href="{{cv.path}}" target="_blank" alt="Temi's CV" class="button is-primary is-outlined">CURRICULUM VITAE</a>
+                  {% endif %}
+                {% endfor %}
               </div>
             </div>
           </p>
