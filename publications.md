@@ -10,7 +10,9 @@ permalink: /publications/
 - Weldemariam, K. and **Ogunyoku, T.A.** *Personalized Situation Awareness using human emotions and incident properties.* 2015.
 
 **Peer-Reviewed Journal Articles**
-- Bair, D.A., Mukome, F.N., Popova, I.E., **Ogunyoku, T.A.**, Jefferson, A., Wang, D., Hafner, S.C., Young, T.M., and Parikh, S.J. *Sorption of Pharmaceuticals, Heavy Metals, and Herbicides to Biochar in the Presence of Biosolid Co-Amendments.* Journal of Environmental Quality. 2016, (accepted).
+- Palmer, J.M., **Ogunyoku, T.A.**, and Hammond, C.R. (2018). 'Intuitive interaction in industry user research: context is everything', in  Blacker, A. (ed.) *Intuitive Interaction: Research and Application*. Boca Raton: CRC Press, pp. 213-226.
+
+- Bair, D.A., Mukome, F.N., Popova, I.E., **Ogunyoku, T.A.**, Jefferson, A., Wang, D., Hafner, S.C., Young, T.M., and Parikh, S.J. *Sorption of Pharmaceuticals, Heavy Metals, and Herbicides to Biochar in the Presence of Biosolid Co-Amendments.* Journal of Environmental Quality. 2016.
 
 - **Ogunyoku, T.A.** and Nelson, K. [*Disinfection of Fresh Fecal Sludge with Ammonia Naturally Present in Excreta.*](/assets/pubs/Disinfection of Fresh Fecal Sludge with Ammonia Naturally Present in Excreta.pdf){:target="_blank"} Journal of Water, Sanitation and Hygiene for Development. 2015.
 
