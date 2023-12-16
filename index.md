@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-As a Researcher, I work on developing and implementing research strategies that address challenges through technology. In that role, I collect contextual data about challenges, develop and test potential solutions with intended users, and identify markets for those solutions.
+As a researcher, my job is to develop and carry out research strategies that leverage technology to solve a wide range of challenges. I start by gathering contextual information about these challenges and then work alongside intended users to experiment with potential solutions. My aim is to identify markets where these solutions can be applied to make a positive impact.
 
-I have an unique background in Civil and Environmental Engineering, international development, and product development. Please see my curriculum vitae for a complete summary of my professional and academic history.  You can contact me at <a href="mailto:Taogunyoku@gmail.com">Taogunyoku@gmail.com</a> for further questions or information.
+I have a unique background in civil and environmental engineering, international development, and product development. Please refer to my curriculum vitae for a summary of my academic and professional history. You can contact me at <a href="mailto:Taogunyoku@gmail.com">Taogunyoku@gmail.com</a> for further questions or information.
