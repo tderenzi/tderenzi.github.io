@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .portfolio-item {
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Welcome to my portfolio</p>
+    </header>
+
+    <section id="portfolio">
+        <h2>My Portfolio</h2>
+        <div class="portfolio-item">
+            <h3>Project 1</h3>
+            <img src="image1.jpg" alt="Project 1">
+            <p>Description of Project 1</p>
+        </div>
+        <div class="portfolio-item">
+            <h3>Project 2</h3>
+            <img src="image2.jpg" alt="Project 2">
+            <p>Description of Project 2</p>
+        </div>
+        <!-- Add more portfolio items as needed -->
+    </section>
+</body>
+</html>
