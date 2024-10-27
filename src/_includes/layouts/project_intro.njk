@@ -1,0 +1,33 @@
+</div>
+<div class="container">
+<section class="section project-desc-section">
+  <div class="columns">
+    <div class="column is-5">
+      <div class="title is-2">
+        {{ data.banner | safe }}
+        </div>
+    </div>
+    <div class="column is-7">
+      {{ section.content | safe }}
+            <div class="grid is-row-gap-3 is-column-gap-5 is-col-min-10">
+                <div class="cell">
+                    <h4 class="title is-6 is-uppercase is-family-sans-serif">{{data.clientTitle}}</h4>
+                    {{data.client}}
+                </div>
+                <div class="cell">
+                    <h4 class="title is-6 is-uppercase is-family-sans-serif">Role</h4>
+                    {{data.role}}
+                </div>
+                <div class="cell s-row-start-2">
+                    <h4 class="title is-6 is-uppercase is-family-sans-serif">Timeline</h4>
+                    {{data.timeline}}
+                </div>
+                <div class="cell">
+                    <h4 class="title is-6 is-uppercase is-family-sans-serif">Scope</h4>
+                    {{data.scope}}
+                </div>
+            </div>
+    </div>
+  </div>
+</section>
+</div>
