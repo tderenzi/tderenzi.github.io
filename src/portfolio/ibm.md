@@ -5,7 +5,7 @@ title: IBM Research
 subtitle: Solving for Limited Healthcare Access in Sub-Saharan Africa (Coming soon)
 draft: true
 image: CHK_IBM.jpg
-sort-order: 10
+sort-order: 30
 sectionsConfig:
   - title: Intro
     layout: project_intro

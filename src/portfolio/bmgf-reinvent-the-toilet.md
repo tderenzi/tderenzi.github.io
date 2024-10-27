@@ -5,7 +5,7 @@ title: Bill & Melinda Gates Foundation
 subtitle: Enhanced the technical and business development of novel sanitation systems. (Coming soon)
 draft: true
 image: bmgf_toilet.jpg
-sort-order: 10
+sort-order: 20
 sectionsConfig:
   - title: Intro
     layout: project_intro
