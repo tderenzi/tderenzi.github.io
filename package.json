@@ -8,6 +8,7 @@
     "build:css": "sass --load-path=node_modules src/styles/main.scss _site/styles/main.css --no-source-map --style=compressed",
     "watch:css": "sass --load-path=node_modules src/styles/main.scss _site/styles/main.css --no-source-map --style=compressed --watch",
     "build": "npm-run-all build:* && eleventy",
+    "build-ghpages": "npm run build",
     "serve": "eleventy --serve",
     "start": "run-p watch:css serve"
   },
