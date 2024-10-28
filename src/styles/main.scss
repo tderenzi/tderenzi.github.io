@@ -88,12 +88,6 @@ body {
         background-color: hsl(0, 0%, 96%);
         // background-color: hsl(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-95-l)) !important;
 }
-@media (prefers-color-scheme: dark) {
-    .shaded-background {
-        // background-color: hsl(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-10-l)) !important;
-        background-color: hsl(0, 0%, 14%);
-    }
-}
 
 a:hover {
     filter: brightness(0.7);
