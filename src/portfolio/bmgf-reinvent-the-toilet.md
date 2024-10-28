@@ -16,7 +16,7 @@ sectionsConfig:
     timeline: 2 months
     scope: Foundational Research
   - title: About the project
-    image: ELOM image.png
+    image: Bill Gates.png
   - title: Business Impact
     image: thrive_by_5.png
 ---
