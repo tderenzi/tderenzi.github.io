@@ -2,6 +2,9 @@
 <div class="shaded-background">
 <div class="container">
 <section class="section project-desc-section">
+  <h3 class="is-3 title">{{section.title}}</h3>
+  <h3 class="is-3 title">&nbsp;</h3>
+    
   {% for m in data.methods %}
   <div class="columns is-vcentered">
     {% if loop.index is odd %}
