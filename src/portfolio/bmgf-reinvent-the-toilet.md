@@ -61,7 +61,7 @@ Globally, 2.5 billion people lack access to improved sanitation. The Bill & Meli
 - 34 tenants
 - 4 sellers
 
-- **Data Synthesis & Reporting**: By triangulating qualitative and quantitative data, I uncovered key patterns in user needs, technical requirements and constraints, as well as market opportunities.
+**Data Synthesis & Reporting**: By triangulating qualitative and quantitative data, I uncovered key patterns in user needs, technical requirements and constraints, as well as market opportunities.
   
 I developed **personas** for the target user groups in each market, **capturing the availability, accessibility, and reliability of basic services**. These personas **highlighted critical needs for essential services and preferences for potential by-products** produced by the Reinvented Toilets (RTs).
 
@@ -80,5 +80,5 @@ Using the insights gained from data analysis, I created detailed **summaries of 
 
 - **Market Opportunity Identification**: Determined that Nigeria presented a stronger market for Reinvented Toilets (RTs) compared to Kenya, due to higher demand for reliable basic services like electricity and water, and a less established sanitation market.
 
--**Strategic Investment Recommendations**: Provided the foundation with insights to guide $200 million in future grant investments, recommending projects such as multi-unit toilets and technologies that could produce electricity as a byproduct, aligning future development with market needs.
+- **Strategic Investment Recommendations**: Provided the foundation with insights to guide $200 million in future grant investments, recommending projects such as multi-unit toilets and technologies that could produce electricity as a byproduct, aligning future development with market needs.
 
