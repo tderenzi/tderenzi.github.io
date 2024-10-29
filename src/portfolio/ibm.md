@@ -32,14 +32,20 @@ Hypertension is a growing health burden in sub-Saharan Africa, but access to hea
 Hypertension is a significant public health issue in sub-Saharan Africa. However, the lack of health resources makes it challenging to serve those in need. CHC was designed to serve that population. Our challenge was to evaluate a self-service health kiosk that would provide an intuitive, culturally relevant user experience for patients managing hypertension in Kenya. 
 
 # Research goals
-- Evaluate usability of the CHC kiosk prototype
 - Identify cultural barriers and accessibility challenges
+- Evaluate usability of the CHC kiosk prototype
 - Assess user comfort with self-service health technology
 - Provide recommendations for interface optimization
 
 
 
-# What I did
+# What we did
+
+**Research Approcah**
+- **Environmental Audit**: We first conducted audits in high-traffic areas where similar health kiosks existed (BMI and Blood Pressure kiosks). We observed user interactions and collected data on user behavior, kiosk placement, and health measurement accuracy. Insights from these audits helped us understand local usage patterns and potential barriers to adoption.
+
+- **Usability Testing**: A heuristic evaluation was performed using Nielsen's principles, followed by in-lab usability tests with participants (n = 6) from target (culturally Kenyan) and non-target populations (any other participant not from the target population). We measured task completion rates, error rates, and user satisfaction to identify usability issues.
+  
 - **Discovery and Research**: conducted comprehensive stakeholder interviews and workflow analysis while evaluating existing tools to identify critical pain points in the current system.
 - **Define**: Synthesized research insights into user personas and journey maps while identifying key challenges around data centralization, quality, and security enhancement opportunities.
 - **Ideate**: Led cross-functional brainstorming workshops to evaluate potential solutions, focusing on real-time monitoring systems and data collection tool integration.
