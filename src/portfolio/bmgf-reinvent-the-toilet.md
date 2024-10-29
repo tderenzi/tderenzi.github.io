@@ -28,9 +28,9 @@ The insights and recommendations helped guide the foundation's strategic investm
 
 
 # About the project
-**I was hired as the Senior UX Research Lead for a significant initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
+I was hired as the Senior UX Research Lead for **an initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
 
-The project was led by Dalberg, a strategy and policy firm contracted by the Sanitation Technology Platform, an organization supporting the development and commercialization of BMGF's new sanitation products. I collaborated with a cross-functional team, including product designers, UX fellows, data collectors, and local guides, to conduct comprehensive field research across multiple cities.
+The project was led by Dalberg, a strategy and policy firm contracted by the Sanitation Technology Platform, an organization supporting the development and commercialization of BMGF's new sanitation products. **I collaborated with a cross-functional team, including product designers, UX fellows, data collectors, and local guides, to conduct comprehensive field research across multiple cities.**
 
 
 # The Problem
