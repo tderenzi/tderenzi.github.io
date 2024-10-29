@@ -28,13 +28,13 @@ sectionsConfig:
     layout: project_research_methods
     methods:
       - title: "Contextual interviews"
-        description: "Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers"
+        description: "Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers."
         image: Contextual Interviews.jpg
       - title: "Card sorting"
         description: "Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases."
         image: Card Sorting.png
       - title: "Concept testing"
-        description: "Engaging participants in a dialog around crafted prototypes to gauge preferences"
+        description: "Engaging participants in a dialog around crafted prototypes to gauge preferences."
         image: Concept Testing.jpg
       - title: "Immersion and intercept interviews"
         description: "Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights."
@@ -68,9 +68,9 @@ Globally, 2.5 billion people lack access to improved sanitation. The Bill & Meli
 **Team Alignment**: I led a diverse team across two countries, ensuring clear communication of project objectives and roles. I developed comprehensive research and recruitment plans while coordinating with local fixers and guides. I also reviewed and refined the quantitative survey to enable data triangulation, ensuring that qualitative and quantitative insights could be integrated for a robust analysis.
   
 # Research Methods
-- **Contextual interviews**: Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers
+- **Contextual interviews**: Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers.
 - **Card sorting**: Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases.
-- **Concept testing**: Engaging participants in a dialog around crafted prototypes to gauge preferences
+- **Concept testing**: Engaging participants in a dialog around crafted prototypes to gauge preferences.
 - **Immersion and intercept interviews**: Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights.
 
 
