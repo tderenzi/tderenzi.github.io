@@ -48,10 +48,12 @@ Globally, 2.5 billion people lack access to improved sanitation. The Bill & Meli
 - **Team Alignment**: I led a diverse team across two countries, ensuring clear communication of project objectives and roles. I developed comprehensive research and recruitment plans while coordinating with local fixers and guides. I also reviewed and refined the quantitative survey to enable data triangulation, ensuring that qualitative and quantitative insights could be integrated for a robust analysis.
   
 - **Research Methods**:
-- Contextual interviews with landlords, tenants and sellers
-- Card sorting exercises to understand feature priorities
-- Immersion and intercept interviews in target communities
-- Concept testing of RT features and by-products
+- **Contextual interviews**: Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers
+- **Card sorting**: Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases.
+- **Concept testing**: Engaging participants in a dialog around crafted prototypes to gauge preferences
+- **Immersion and intercept interviews**: Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights.
+
+
 
 - **Research Scale**:
 - 55 participants across Lagos, Nairobi and Mombasa
