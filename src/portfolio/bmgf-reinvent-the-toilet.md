@@ -38,7 +38,7 @@ sectionsConfig:
         image: Concept Testing.jpg
       - title: "Immersion and intercept interviews"
         description: "Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights."
-        image: Immersion.png
+        image: immersion.jpg
 ---
 # Intro
 I led end-to-end research to understand adoption pathways for novel sanitation technology in emerging markets, working with a globally distributed team across Nigeria and Kenya to inform product strategy and market entry decisions.
