@@ -19,6 +19,26 @@ sectionsConfig:
     image: Bill Gates.png
   - title: Business Impact
     image: thrive_by_5.png
+  - title: Data Synthesis & Reporting
+    layout: project_3image_right
+    image: Persona.png
+    image2: RT Input.png
+    image3: RT Output.png
+  - title: Research Methods
+    layout: project_research_methods
+    methods:
+      - title: "Contextual interviews"
+        description: "Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers"
+        image: Contextual Interviews.jpg
+      - title: "Card sorting"
+        description: "Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases."
+        image: Card Sorting.png
+      - title: "Concept testing"
+        description: "Engaging participants in a dialog around crafted prototypes to gauge preferences"
+        image: Concept Testing.jpg
+      - title: "Immersion and intercept interviews"
+        description: "Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights."
+        image: Immersion.png
 ---
 # Intro
 I led end-to-end research to understand adoption pathways for novel sanitation technology in emerging markets, working with a globally distributed team across Nigeria and Kenya to inform product strategy and market entry decisions.
@@ -47,21 +67,16 @@ Globally, 2.5 billion people lack access to improved sanitation. The Bill & Meli
 # What I did
 **Team Alignment**: I led a diverse team across two countries, ensuring clear communication of project objectives and roles. I developed comprehensive research and recruitment plans while coordinating with local fixers and guides. I also reviewed and refined the quantitative survey to enable data triangulation, ensuring that qualitative and quantitative insights could be integrated for a robust analysis.
   
-**Research Methods**:
+# Research Methods
 - **Contextual interviews**: Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers
 - **Card sorting**: Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases.
 - **Concept testing**: Engaging participants in a dialog around crafted prototypes to gauge preferences
 - **Immersion and intercept interviews**: Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights.
 
 
+# Data Synthesis & Reporting
 
-- **Research Scale**:
-- 55 participants across Lagos, Nairobi and Mombasa
-- 17 landlords
-- 34 tenants
-- 4 sellers
-
-**Data Synthesis & Reporting**: By triangulating qualitative and quantitative data, I uncovered key patterns in user needs, technical requirements and constraints, as well as market opportunities.
+By triangulating qualitative and quantitative data, I uncovered key patterns in user needs, technical requirements and constraints, as well as market opportunities.
   
 I developed **personas** for the target user groups in each market, **capturing the availability, accessibility, and reliability of basic services**. These personas **highlighted critical needs for essential services and preferences for potential by-products** produced by the Reinvented Toilets (RTs).
 

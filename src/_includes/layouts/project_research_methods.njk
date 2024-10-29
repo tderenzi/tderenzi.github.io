@@ -1,0 +1,31 @@
+</div>
+<div class="shaded-background">
+<div class="container">
+<section class="section project-desc-section">
+  {% for m in data.methods %}
+  <div class="columns is-vcentered">
+    {% if loop.index is odd %}
+      {% if m.image %}
+        <div class="column is-5">
+          <img src="/assets/images/{{ m.image | url }}" alt="{{ m.title }}">
+        </div>
+      {% endif %}
+      <div class="column">
+        <h4 class="title is-4">{{ m.title }}</h4>
+        {{ m.description | safe }}
+      </div>
+    {% else %}
+      <div class="column">
+        <h4 class="title is-4">{{ m.title }}</h4>
+        {{ m.description | safe }}
+      </div>
+      {% if m.image %}
+        <div class="column is-5">
+          <img src="/assets/images/{{ m.image | url }}" alt="{{ m.title }}">
+        </div>
+      {% endif %}
+    {% endif %}
+  </div>
+{% endfor %}
+</section>
+</div>
