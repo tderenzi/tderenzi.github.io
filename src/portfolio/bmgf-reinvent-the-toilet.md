@@ -32,7 +32,7 @@ sectionsConfig:
         image: Contextual Interviews.jpg
       - title: "Card sorting"
         description: "Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases."
-        image: Card Sorting.jgp
+        image: Card Sorting.jpg
       - title: "Concept testing"
         description: "Engaging participants in a dialog around crafted prototypes to gauge preferences."
         image: Concept Testing.jpg
