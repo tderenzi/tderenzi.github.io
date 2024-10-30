@@ -25,7 +25,7 @@ I led the user research to redesign a fragmented data management system for popu
 
 
 # About the project
-ELOM developed population-based child assessment tools to determine whether children are developmentally on track for their age. These tools evaluate early childhood programs' effectiveness, help organizations improve early learning interventions and guide policy decisions. I was **responsible for transforming their data management system to enable scale and improve efficiency**.
+ELOM developed population-based child assessment tools to determine whether children are developmentally on track for their age. These tools evaluate early childhood programs' effectiveness, help organizations improve early learning interventions and guide policy decisions. **I was responsible for transforming their data management system to enable scale and improve efficiency**.
 
 
 # The Problem
