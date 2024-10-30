@@ -19,11 +19,6 @@ sectionsConfig:
     image: IBMRA.jpg
   - title: Business Impact
     image: thrive_by_5.png
-     - title: Key Insights
-    layout: project_3image_right
-    image: Persona.png
-    image2: RT Input.png
-    image3: RT Output.png
   - title: Research Methods
     layout: project_research_methods
     methods:
