@@ -2,7 +2,7 @@
 layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: IBM Research
-subtitle: Solving for Limited Healthcare Access in Sub-Saharan Africa (Coming soon)
+subtitle: Solving for Limited Healthcare Access in Sub-Saharan Africa (Coming soon!)
 draft: true
 image: CHK_IBM.jpg
 sort-order: 30
@@ -16,7 +16,7 @@ sectionsConfig:
     timeline: 6 weeks
     scope: Evaluative Research
   - title: About the project
-    image: ELOM image.png
+    image: IBRMA.jpg
   - title: Business Impact
     image: thrive_by_5.png
 ---
@@ -53,11 +53,11 @@ The healthcare team conducted primary research through literatute review and spe
 
 **Cultural context**: The environmental audit revealed that users in Kenya were accustomed to kiosks with attendants assisting them, leading to a significant knowledge gap when interacting with our self-service kiosk. For example, none of the target population group interacted with the tablet without first asking the moderator and assumed they did not need to interact with the CHC device for the service to initiate:
 
-User-1 glanced around for a while and then stared at the tablet: "I need to read?"
+<em>User-1 glanced around for a while and then stared at the tablet: "I need to read?"</em>
 
-User-5 stepped onto the scale and looked around without touching the tablet. After 141 seconds, User-5 then asked: "I should fill it in?"
+<em>User-5 stepped onto the scale and looked around without touching the tablet. After 141 seconds, User-5 then asked: "I should fill it in?"</em>
 
-User-6 asked: "Do I have to touch the machine? Do I talk to the machine or touch the button?"
+<em>User-6 asked: "Do I have to touch the machine? Do I talk to the machine or touch the button?"</em>
 
 **Inferface Usability**: Target users experienced a **100% failure rate on registration and iris scanning** compared to a **66.7% failure** rate among non-target users. Task completion times for target users were on average **10.6% slower** than non-target users, particularly in the more complex registration and biometric tasks.
 
