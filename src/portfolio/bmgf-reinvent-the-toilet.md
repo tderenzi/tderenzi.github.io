@@ -2,8 +2,7 @@
 layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: Bill & Melinda Gates Foundation
-subtitle: Enchancing the technical and business development of novel sanitation systems. (Coming soon)
-draft: true
+subtitle: Enchancing the technical and business development of novel sanitation systems.
 image: bmgf_toilet.jpg
 sort-order: 20
 sectionsConfig:
