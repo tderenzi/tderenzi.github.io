@@ -23,7 +23,7 @@ sectionsConfig:
     layout: project_3image_right
     image: Persona.png
     image2: RT with Reflection.png
-    image3: RT Output.png
+    image3: RT w:o reflection.png
   - title: Research Methods
     layout: project_research_methods
     methods:
