@@ -52,8 +52,6 @@ The healthcare team conducted primary research through literatute review and spe
 - Assess user comfort with self-service health technology
 - Provide recommendations for interface optimization
 
-
-
 # Research Methods
 
 - **Environmental Audit**: We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. **This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings.**
@@ -87,7 +85,6 @@ Our research informed the following design adaptations:
 - Simplified interface to reduce cognitive load and reliance on unfamiliar tech
 - Recommendations for foundational user research to ensure design alignment with cultural norms
 - Insights led to the development of a patent for a health technology methodology adaptable for resource-limited settings
-
 
 **Notable Outcomes**:
 
