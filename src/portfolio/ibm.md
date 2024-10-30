@@ -21,15 +21,15 @@ sectionsConfig:
     image: thrive_by_5.png
 ---
 # Intro
-I led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team to ensure the solution was both usable and culturally relevant.
+I co-led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team to ensure the solution was both usable and culturally relevant.
 
 
 # About the project
-Hypertension is a growing health burden in sub-Saharan Africa, but access to healthcare resources is limited. The Cognitive Health Companion (CHC) kiosk was designed to help address this gap. My task was to evaluate and optimize the user experience of the kiosk for the target population.
+Hypertension is a growing health burden in sub-Saharan Africa, but access to healthcare resources is limited. IBM Research| Africa's healthcare team aimed to address this problem by developing the Cognitive Health Companion (CHC) - a self-service health kiosk that  interacted, collected, analysed, and continually delivered consumable health data to patients. 
 
 
 # The Problem
-Hypertension is a significant public health issue in sub-Saharan Africa. However, the lack of health resources makes it challenging to serve those in need. CHC was designed to serve that population. Our challenge was to evaluate a self-service health kiosk that would provide an intuitive, culturally relevant user experience for patients managing hypertension in Kenya. 
+The healthcare team conducted primary research through literatute review and speaking with healthcare experts. However, they did not engage with potential target users nor had a great understanding of healthcare context in Kenya. Our role was to evaluate the kiosk that would provide an intuitive, culturally relevant user experience for patients managing hypertension in Kenya. 
 
 # Research goals
 - Identify cultural barriers and accessibility challenges
@@ -42,22 +42,40 @@ Hypertension is a significant public health issue in sub-Saharan Africa. However
 # What we did
 
 **Research Approcah**
-- **Environmental Audit**: We first conducted audits in high-traffic areas where similar health kiosks existed (BMI and Blood Pressure kiosks). We observed user interactions and collected data on user behavior, kiosk placement, and health measurement accuracy. Insights from these audits helped us understand local usage patterns and potential barriers to adoption.
+- **Environmental Audit**: We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings.
 
-- **Usability Testing**: A heuristic evaluation was performed using Nielsen's principles, followed by in-lab usability tests with participants (n = 6) from target (culturally Kenyan) and non-target populations (any other participant not from the target population). We measured task completion rates, error rates, and user satisfaction to identify usability issues.
+- **Usability Testing**: Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. Participants included both target (culturally Kenyan) and non-target populations, allowing us to capture usability differences due to cultural context. We noted critical issues in task completion, error rates, and user comfort during key interactions.
+
+- **Diverse User Groups**: Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability.
   
-- **Discovery and Research**: conducted comprehensive stakeholder interviews and workflow analysis while evaluating existing tools to identify critical pain points in the current system.
-- **Define**: Synthesized research insights into user personas and journey maps while identifying key challenges around data centralization, quality, and security enhancement opportunities.
-- **Ideate**: Led cross-functional brainstorming workshops to evaluate potential solutions, focusing on real-time monitoring systems and data collection tool integration.
-- **Design & Test**: Developed and tested a centralized interface design through wireframes and user flows, iterating based on field team usability testing feedback.
-- **Implementation**: Partnered with service providers to successfully integrate a data collection platform (SurveyCTO), while implementing centralized device management, real-time monitoring, and enhanced security controls.
 
 # Key Insights
-1. **Fragmentation Leads to Inefficiency**: Navigating between multiple systems was a key pain point for users, resulting in significant time wastage and data entry errors.
-2. **Centralization is Critical**: A unified platform significantly improved efficiency, minimized errors, and reduced security risks.
-3. **Real-Time Monitoring**: Lack of real-time data validation was causing downstream analysis issues.
-4. **Standardization**: Inconsistent processes for data cleaning hindered scalability and quality.
-5. **Integrated Project Management**: Communication and task management were improved with the integration of a project management tool and processes
 
-# Organization Impact
-1. **Efficiency Gains**: Reduced data processing time by 185%, improved data quality, accelerated tool development, and strengthened teamwork.
+**Cultural context**: The environmental audit revealed that users in Kenya were accustomed to kiosks with attendants assisting them, leading to a significant knowledge gap when interacting with our self-service kiosk. For example, none of the target population group interacted with the tablet without first asking the moderator and assumed they did not need to interact with the CHC device for the service to initiate:
+
+User-1 glanced around for a while and then stared at the tablet: "I need to read?"
+
+User-5 stepped onto the scale and looked around without touching the tablet. After 141 seconds, User-5 then asked: "I should fill it in?"
+
+User-6 asked: "Do I have to touch the machine? Do I talk to the machine or touch the button?"
+
+**Inferface Usability**: Target users experienced a **100% failure rate on registration and iris scanning** compared to a **66.7% failure** rate among non-target users. Task completion times for target users were on average **10.6% slower** than non-target users, particularly in the more complex registration and biometric tasks.
+
+**User Satisfaction**: Despite **usability issues, target participants rated satisfaction high (average satisfaction score of 9.33/10)**, whereas non-target users rated it significantly lower (5/10). This discrepancy suggests a **strong social desirability bias among target users**, masking potential dissatisfaction and usability issues.
+
+**Heuristic Evaluation Limitations**: Western-trained evaluators identified critical usability issues aligned with non-target population needs. However, many issues overlooked for target users, such as cultural familiarity and expectations for assistance, led to significant gaps. Our research recommends localized heuristic evaluations for culturally diverse user groups​
+
+
+# Business Impact
+
+Our research informed the following design adaptations:
+
+- Simplified interface to reduce cognitive load and reliance on unfamiliar tech
+- Recommendations for foundational user research to ensure design alignment with cultural norms
+- Insights led to the development of a patent for a health technology methodology adaptable for resource-limited settings
+
+**Notable Outcomes**:
+- Patent Achievement: As lead author, I contributed to protected intellectual property for IBM.
+- Research Influence: Demonstrated how UX research drives technical innovation in healthcare, especially when tailored to the unique challenges of emerging markets.
+
+
