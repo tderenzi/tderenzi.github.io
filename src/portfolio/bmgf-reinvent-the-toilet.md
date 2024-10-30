@@ -28,15 +28,18 @@ sectionsConfig:
     layout: project_research_methods
     methods:
       - title: "Contextual interviews"
+      - 
         description: "Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers."
         image: Contextual Interviews.jpg
       - title: "Card sorting"
         description: "Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases."
         image: Card Sorting.jpg
       - title: "Concept testing"
+      - 
         description: "Engaging participants in a dialog around crafted prototypes to gauge preferences."
         image: Concept Testing.jpg
       - title: "Immersion and intercept interviews"
+      - 
         description: "Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights."
         image: immersion.jpg
 ---
