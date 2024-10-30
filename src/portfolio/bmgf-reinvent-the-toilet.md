@@ -51,7 +51,7 @@ The insights and recommendations helped guide the foundation's strategic investm
 
 
 # About the project
-I was hired as the Senior UX Research Lead for **an initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
+I was hired as the Senior Design Research Lead for **an initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
 
 The project was led by Dalberg, a strategy and policy firm contracted by the Sanitation Technology Platform, an organization supporting the development and commercialization of BMGF's new sanitation products. **I collaborated with a cross-functional team, including product designers, UX fellows, data collectors, and local guides, to conduct comprehensive field research across multiple cities.**
 
@@ -83,13 +83,16 @@ By triangulating qualitative and quantitative data, I uncovered key patterns in 
   
 I developed **personas** for the target user groups in each market, **capturing the availability, accessibility, and reliability of basic services**. These personas **highlighted critical needs for essential services and preferences for potential by-products** produced by the Reinvented Toilets (RTs).
 
-Using the insights gained from data analysis, I created detailed **summaries of input and output operating parameters of the RTs**. These parameters **outlined the ideal operating ranges for RT developers to consider when designing or modifying the systems**. 
+Using the insights gained from data analysis, I created detailed **summaries of the 12 input and 11 output operating parameters of the RTs**. These parameters **outlined the ideal operating ranges for RT developers to consider when designing or modifying the systems**. 
 
 
 # Key Insights
 - **Affordability is Critical**: Households are price-sensitive and prioritize other basic needs (e.g. electricity) over sanitation improvements.
+  
 - **Product Value Lies in By-products**: RTs' ability to generate electricity or biogas was highly attractive.
+  
 - **Skepticism Toward New Products**: Users expressed skepticism toward unproven technologies and wanted physical proof before committing financially.
+  
 - **Infrastructure Constraints**: Limited access to basic utilities posed a challenge for RT operation.
   
 
