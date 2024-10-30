@@ -16,7 +16,7 @@ sectionsConfig:
     timeline: 6 weeks
     scope: Evaluative Research
   - title: About the project
-    image: IBRMA.jpg
+    image: IBMRA.jpg
   - title: Business Impact
     image: thrive_by_5.png
 ---
