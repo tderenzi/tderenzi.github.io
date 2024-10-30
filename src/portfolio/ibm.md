@@ -19,6 +19,26 @@ sectionsConfig:
     image: IBMRA.jpg
   - title: Business Impact
     image: thrive_by_5.png
+     - title: Key Insights
+    layout: project_3image_right
+    image: Persona.png
+    image2: RT Input.png
+    image3: RT Output.png
+  - title: Research Methods
+    layout: project_research_methods
+    methods:
+      - title: "Environmental Audit"
+        
+        description: "We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings."
+        image: Environment Audit.png
+      - title: "Usability Testing"
+        description: "Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. Participants included both target (culturally Kenyan) and non-target populations, allowing us to capture usability differences due to cultural context. We noted critical issues in task completion, error rates, and user comfort during key interactions."
+        image: USability Test Imageg.png
+      - title: "Diverse User Groups"
+        
+        description: "Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability."
+        image: Concept Testing.jpg
+
 ---
 # Intro
 I co-led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team to ensure the solution was both usable and culturally relevant.
