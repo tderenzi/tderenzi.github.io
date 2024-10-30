@@ -56,11 +56,11 @@ The healthcare team conducted primary research through literatute review and spe
 
 # Research Methods
 
-- **Environmental Audit**: We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings.
+- **Environmental Audit**: We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. **This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings.**
 
-- **Usability Testing**: Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. We captured critical issues in task completion, error rates, and user comfort during key interactions.
+- **Usability Testing**: Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. **We captured critical issues in task completion, error rates, and user comfort during key interactions.**
 
-- **Diverse User Groups**: Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability.
+- **Diverse User Groups**: Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, **we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability.**
   
 
 # Key Insights
