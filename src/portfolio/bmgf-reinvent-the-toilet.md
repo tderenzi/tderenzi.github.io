@@ -12,7 +12,7 @@ sectionsConfig:
     banner: Enhaching the technical and business development of novel sanitation systems
     clientTitle: Organization
     client: Bill & Melinda Gates Foundation
-    role: Senior UX Researcher and Team Lead
+    role: Senior Design Researcher and Team Lead
     timeline: 2 months
     scope: Foundational Research
   - title: About the project
