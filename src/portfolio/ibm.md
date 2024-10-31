@@ -30,8 +30,9 @@ sectionsConfig:
         description: "Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. Participants included both target (culturally Kenyan) and non-target populations, allowing us to capture usability differences due to cultural context. We noted critical issues in task completion, error rates, and user comfort during key interactions."
         image: Usability Test Image.png
       - title: "Diverse User Groups"
-        
         description: "Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, **we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability.**"
+          - title: Key Insights
+            image: Satisfaction.png
      
 
 ---
