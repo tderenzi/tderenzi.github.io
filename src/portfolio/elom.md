@@ -41,7 +41,7 @@ ELOM’s **data management system** faced significant challenges due to **fragme
 # What I did
 - **Discovery and Research**: conducted comprehensive stakeholder interviews and workflow analysis while evaluating existing tools to identify critical pain points in the current system.
   
-- **Define**: Synthesized research insights into user personas and journey maps while identifying key challenges around data centralization, quality, and security enhancement opportunities.
+- **Define**: Synthesized research insights into user personas, journey maps, and service blueprints while identifying key challenges around data centralization, quality, and security enhancement opportunities.
   
 - **Ideate**: Led cross-functional brainstorming workshops to evaluate potential solutions, focusing on real-time monitoring systems and data collection tool integration.
   
