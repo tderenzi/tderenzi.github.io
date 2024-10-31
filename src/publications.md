@@ -28,4 +28,4 @@ permalink: /publications/
 
 - **Ogunyoku, T.A.** {% link "The Implementation of Sustainable Point-of-Use Water Treatment and Sanitation Systems in Rural Uganda." "/assets/pubs/Ogunyoku_TA_M.S. Report.pdf" %} University of California, Davis. Jun. 2008
 
-- Shah, S.D., **Ogunyoku, T.A.**, and Cocker, D.R. {% link "On-Road Emission Rates of PAH and n-Alkane Compounds from Heavy-Duty Diesel Vehicles." "http://www.engr.ucr.edu/~dcocker/JA22.pdf" %} Environ. Sci. Technol. 2005, 39, 5276–5284.
+- Shah, S.D., **Ogunyoku, T.A.**, and Cocker, D.R. 'On-Road Emission Rates of PAH and n-Alkane Compounds from Heavy-Duty Diesel Vehicles.' Environ. Sci. Technol. 2005, 39, 5276–5284.
