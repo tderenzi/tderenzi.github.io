@@ -95,7 +95,7 @@ Using the insights gained from data analysis, I created detailed **summaries of 
   
 
 # Organization Impact
-- **Data-Driven Decision Making**: Delivered critical user, technical, and environmental requirements to partners, **equipping stakeholders with the data needed to develop effective sanitation systems in targeted markets**.
+- **Data-Driven Decision Making**: Delivered critical user, technical, and environmental requirements to partners, **equipping stakeholders with the data needed to develop effective sanitation systems in targeted markets**. For full report (design research on pages 108 - 140 and 244 - 273) please visit: [Gates Open Research](https://gatesopenresearch.org/documents/3-1686)
 
 - **Market Opportunity Identification**: Determined that **Nigeria presented a stronger market for Reinvented Toilets (RTs) compared to Kenya**, due to higher demand for reliable basic services like electricity, and a less established sanitation market.
 
