@@ -61,6 +61,6 @@ ELOM’s **data management system** faced significant challenges due to **fragme
    
 - **Security Enhancement**: Implemented encryption, access controls, and improved data visualization accessibility.
    
-- **Scale Achievement**: The redesign data management system was utilized in South Africa's largest national survey, reaching 5,000+ participants ( representing ~600,000 children), resulting in improving early learning programs and influencing policy. For the full report please visit: [Thrive By Five] (https://thrivebyfive.co.za/)
+- **Scale Achievement**: The redesign data management system was utilized in South Africa's largest national survey, reaching 5,000+ participants ( representing ~600,000 children), resulting in improving early learning programs and influencing policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)
    
 - **Accelerated Tool Development**: Enabled rapid development of additional early childhood assessment tool development through real-time data monitoring, centralized database access, and faster analysis, iteration, and deployment.
