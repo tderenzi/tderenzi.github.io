@@ -51,9 +51,13 @@ ELOM’s **data management system** faced significant challenges due to **fragme
 
 # Key Insights
 - **Fragmentation Leads to Inefficiency**: Navigating between multiple systems was a key pain point for users, resulting in significant time wastage and data entry errors.
+  
 - **Centralization is Critical**: A unified platform significantly improved efficiency, minimized errors, and reduced security risks.
+  
 - **Real-Time Monitoring**: Lack of real-time data validation was causing downstream analysis issues.
+  
 - **Standardization**: Inconsistent processes for data cleaning hindered scalability and quality.
+  
 - **Integrated Project Management**: Communication and task management were improved with the integration of a project management tool and processes
 
 # Organization Impact
