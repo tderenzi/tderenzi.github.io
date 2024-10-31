@@ -35,43 +35,55 @@ module.exports = function(eleventyConfig) {
     return null;
 });
 
-  eleventyConfig.addNunjucksGlobal("splitSections", function(content) {
-    // Parse markdown content into tokens
-    const tokens = markdownLib.parse(content, {});
-    let sections = [];
-    let currentSection = null;
-    let contentTokens = [];
-  
-    tokens.forEach(token => {
-      if (token.type === "heading_open") {
-        // Push the previous section if it exists
-        if (currentSection) {
-          currentSection.content = markdownLib.renderer.render(contentTokens, markdownLib.options, {});
-          sections.push(currentSection);
-        }
-        // Start a new section
-        currentSection = { title: "", content: "" };
-        contentTokens = [];
-      } else if (token.type === "inline" && currentSection && !currentSection.title) {
-        // Set the title for the current section
-        currentSection.title = token.content;
-        currentSection.key = token.content.toLowerCase().replace(/\s+/g, "-");
-      } else if (currentSection && ["paragraph_open", "paragraph_close", "inline", "bullet_list_open", "bullet_list_close", "list_item_open", "list_item_close"].includes(token.type)) {
-        // Collect content tokens for the current section
-        contentTokens.push(token);
+eleventyConfig.addNunjucksGlobal("splitSections", function(content) {
+  // Parse markdown content into tokens
+  const tokens = markdownLib.parse(content, {});
+  let sections = [];
+  let currentSection = null;
+  let contentTokens = [];
+
+  tokens.forEach(token => {
+    if (token.type === "heading_open") {
+      // Push the previous section if it exists
+      if (currentSection) {
+        currentSection.content = markdownLib.renderer.render(contentTokens, markdownLib.options, {});
+        sections.push(currentSection);
       }
-    });
-  
-    // Push the final section after the loop ends
-    if (currentSection) {
-      currentSection.content = markdownLib.renderer.render(contentTokens, markdownLib.options, {});
-      sections.push(currentSection);
+      // Start a new section
+      currentSection = { title: "", content: "" };
+      contentTokens = [];
+    } else if (token.type === "heading_close") {
+      // Do nothing for heading_close
+    } else if (token.type === "inline" && currentSection && !currentSection.title) {
+      // Set the title for the current section
+      currentSection.title = token.content;
+      currentSection.key = token.content.toLowerCase().replace(/\s+/g, "-");
+    } else if (currentSection) {
+      // Collect all other tokens
+      contentTokens.push(token);
     }
-  
-    return sections;
   });
+
+  // Push the final section after the loop ends
+  if (currentSection) {
+    currentSection.content = markdownLib.renderer.render(contentTokens, markdownLib.options, {});
+    sections.push(currentSection);
+  }
+
+  return sections;
+});
+
+
   
-  
+  markdownLib.renderer.rules.image = function (tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    const src = token.attrGet('src');
+    const alt = token.content;
+
+    return `<figure class="image is-centered">
+              <img src="${src}" alt="${alt}">
+            </figure>`;
+  };
   
 
   eleventyConfig.addPassthroughCopy("src/assets");

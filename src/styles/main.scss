@@ -94,6 +94,15 @@ a:hover {
 }
 
 
+blockquote {
+    border-left: 3px solid var(--bulma-link); /* Bulma color */
+    padding-left: 1rem;
+    margin-left: 5rem;
+    // color: var(--bulma-link-text); /* Bulma text color */
+    font-style: italic;
+  }
+
+  
 .tao-navbar-center {
     justify-content: center;
     .navbar-start {

@@ -25,6 +25,7 @@ sectionsConfig:
     image3: RT Output.png
   - title: Research Methods
     layout: project_research_methods
+    shaded: true
     methods:
       - title: "Contextual interviews"
         image: Contextual Interviews.jpg
