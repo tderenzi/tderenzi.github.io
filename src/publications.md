@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 **Patents**
-- **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. *System, Method, and Computer Program Product for Sensory Simulation During Product Testing.*_ Patent No. US20180189802
+- **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. {% link "System, Method, and Computer Program Product for Sensory Simulation During Product Testing." "/src/assets/pubs/System, Method and Computer Program Product For Sensory Simulation During Product Testing patent.pdf" %} Patent No. US20180189802
 
 - **Ogunyoku, T.A.**, Weldemariam, K., and Njuguna, J. *System and Method for Incident Validation and Ranking Using Human and Non-Human Data Sources.* Patent No. US10074368
 
