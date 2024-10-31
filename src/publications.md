@@ -5,11 +5,11 @@ title: Publications
 permalink: /publications/
 ---
 **Patents**
-- **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. *Using sensory simulation during user testing to obtain a user’s initial and natural reactions of a product or service.* 2016.
+- **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. *System, Method, and Computer Program Product for Sensory Simulation During Product Testing.*_ Patent No. US20180189802
 
-- **Ogunyoku, T.A.**, Weldemariam, K., and Njuguna, J. *System and Method for Incident Validation and Ranking using Human and Non-human data sources.* 2015.
+- **Ogunyoku, T.A.**, Weldemariam, K., and Njuguna, J. *System and Method for Incident Validation and Ranking Using Human and Non-Human Data Sources.* Patent No. US10074368
 
-- Weldemariam, K. and **Ogunyoku, T.A.** *Personalized Situation Awareness using human emotions and incident properties.* 2015.
+- Weldemariam, K. and **Ogunyoku, T.A.** *Personalized Situation Awareness Using Human Emotions and Incident Properties.* Patent No. US10074368
 
 **Peer-Reviewed Journal Articles**
 - Palmer, J.M., **Ogunyoku, T.A.**, and Hammond, C.R. (2018). 'Intuitive interaction in industry user research: context is everything', in Blacker, A. (ed.) *Intuitive Interaction: Research and Application*. Boca Raton: CRC Press, pp. 213-226.
