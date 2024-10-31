@@ -74,9 +74,12 @@ The healthcare team conducted primary research through literatute review and spe
 # Business Impact
 
 Our research informed the following design adaptations:
-- Simplified interface to reduce cognitive load and reliance on unfamiliar tech. 
-- Recommendations for foundational user research to ensure design alignment with cultural norms. 
+- Simplified interface to reduce cognitive load and reliance on unfamiliar tech.
+  
+- Recommendations for foundational user research to ensure design alignment with cultural norms.
+  
 - Insights led to the development of an innovation product testing methodology, which contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
+  
 - Co-authored a chapter with colleagues, contributing to the field with research insights and advancing industry knowledge on user experience in healthcare technology. This publication underscored the importance of cultural context and usability in designing impactful solutions for emerging markets. 
 
 
