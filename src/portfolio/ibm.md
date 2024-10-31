@@ -18,7 +18,6 @@ sectionsConfig:
   - title: About the project
     image: IBMRA.jpg
   - title: Business Impact
-    image: thrive_by_5.png
   - title: Research Methods
     layout: project_research_methods
     methods:
