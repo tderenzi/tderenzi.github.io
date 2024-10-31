@@ -7,9 +7,9 @@ permalink: /publications/
 **Patents**
 - **Ogunyoku, T.A.**, Palmer, J., and Hammond, C. {% link "System, Method and Computer Program Product For Sensory Simulation During Product Testing." "/assets/pubs/System, Method and Computer Program Product For Sensory Simulation During Product Testing.pdf" %} Patent No. US20180189802
 
-- Kaguma, D., Njuguna, J., **Ogunyoku, T.A.**, and Weldemariam, K. {% link "System and Method for Incident Validation and Ranking Using Human and Non-Human Data Sources." "/assets/pubs/System and Method for Incident validation and Ranking Using Human and Non-Human Data Sources.pdf" %} Patent No. US10074368
+- Kaguma, D., Njuguna, J., **Ogunyoku, T.A.**, and Weldemariam, K. {% link "System and Method for Incident Validation and Ranking Using Human and Non-Human Data Sources." "/assets/pubs/System and Method for Incident validation and Ranking Using Human and Non-Human Data Sources.pdf" %} Patent No. US20180253813 A1
 
-- Weldemariam, K. and **Ogunyoku, T.A.** {% link "Personalized Situation Awareness Using Human Emotions and Incident Properties." "/assets/pubs/Personalized situation awareness using human emotions and incident properties.pdf" %} Patent No. US10074368
+- Weldemariam, K. and **Ogunyoku, T.A.** {% link "Personalized Situation Awareness Using Human Emotions and Incident Properties." "/assets/pubs/Personalized situation awareness using human emotions and incident properties.pdf" %} Patent No. US10074368 B2
 
 **Peer-Reviewed Journal Articles**
 - Palmer, J.M., **Ogunyoku, T.A.**, and Hammond, C.R. (2018). 'Intuitive interaction in industry user research: context is everything', in Blacker, A. (ed.) *Intuitive Interaction: Research and Application*. Boca Raton: CRC Press, pp. 213-226.
