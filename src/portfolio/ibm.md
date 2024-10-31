@@ -73,7 +73,6 @@ The healthcare team conducted primary research through literatute review and spe
 
 # Business Impact
 
-Our research informed the following design adaptations:
 - Simplified interface to reduce cognitive load and reliance on unfamiliar tech.
   
 - Recommendations for foundational user research to ensure design alignment with cultural norms.
