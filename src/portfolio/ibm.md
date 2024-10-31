@@ -82,7 +82,7 @@ Our research informed the following design adaptations:
 
 **Notable Outcomes**:
 
-- Patent Achievement: As lead author, I contributed to protected intellectual property for IBM. [US20180189802 A1] (https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
+- Patent Achievement: As lead author, I contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
 - Research Influence: Demonstrated how UX research drives technical innovation in healthcare, especially when tailored to the unique challenges of emerging markets. 
 
 
