@@ -17,8 +17,6 @@ sectionsConfig:
     scope: Evaluative Research
   - title: About the project
     image: IBMRA.jpg
-  - title: Key Insights
-    image: Satisfaction.png
   - title: Business Impact
     image: thrive_by_5.png
   - title: Research Methods
