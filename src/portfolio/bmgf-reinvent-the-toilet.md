@@ -13,7 +13,7 @@ sectionsConfig:
     client: Bill & Melinda Gates Foundation
     role: Senior Design Researcher and Team Lead
     timeline: 2 months
-    scope: Foundational Research
+    scope: Generative Research
   - title: About the project
     image: Bill Gates.png
   - title: Business Impact
