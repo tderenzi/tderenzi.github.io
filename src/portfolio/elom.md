@@ -16,7 +16,7 @@ sectionsConfig:
     scope: Evaluative Research
   - title: About the project
     image: ELOM image.png
-  - title: Organization Impact
+  - title: Impact
     image: thrive_by_5.png
 ---
 
@@ -60,7 +60,7 @@ ELOM’s **data management system** faced significant challenges due to **fragme
   
 - **Integrated Project Management**: Communication and task management were improved with the integration of a project management tool and processes
 
-# Organization Impact
+# Impact
 - **Efficiency Gains**: Reduced data processing time by 185%, improved data quality, accelerated tool development, and strengthened teamwork.
    
 - **Security Enhancement**: Implemented encryption, access controls, and improved data visualization accessibility.
