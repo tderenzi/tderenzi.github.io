@@ -13,7 +13,7 @@ sectionsConfig:
     client: Early Learning Outcome Measurement (ELOM), now part of DataDrive2030
     role: Lead UX Researcher
     timeline: 4 months
-    scope: Evaluative Research
+    scope: Discovery & Evaluative Research
   - title: About the project
     image: ELOM image.png
   - title: Impact
