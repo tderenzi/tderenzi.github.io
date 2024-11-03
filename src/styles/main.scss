@@ -74,6 +74,12 @@ body {
   font-family: $family-serif;
 }
 
+@media screen and (min-width: 769px) {
+  .reverse-columns-desktop {
+    flex-direction: row-reverse;
+  }
+}
+
 .section.project-desc-section {
     padding-top: 3em;
     padding-bottom: 3em;

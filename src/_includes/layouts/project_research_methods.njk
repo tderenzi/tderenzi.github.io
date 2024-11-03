@@ -8,18 +8,20 @@
   <h3 class="is-3 title">&nbsp;</h3>
     
   {% for m in data.methods %}
-  <div class="columns is-vcentered">
     {% if loop.index is odd %}
+
+  <div class="columns is-vcentered reverse-columns-desktop">
+      <div class="column">
+        <h4 class="title is-4">{{ m.title }}</h4>
+        {{ m.description | safe }}
+      </div>
       {% if m.image %}
         <div class="column is-5">
           <img src="/assets/images/{{ m.image | url }}" alt="{{ m.title }}">
         </div>
       {% endif %}
-      <div class="column">
-        <h4 class="title is-4">{{ m.title }}</h4>
-        {{ m.description | safe }}
-      </div>
     {% else %}
+  <div class="columns is-vcentered">
       <div class="column">
         <h4 class="title is-4">{{ m.title }}</h4>
         {{ m.description | safe }}
