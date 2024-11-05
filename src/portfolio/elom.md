@@ -21,7 +21,7 @@ sectionsConfig:
 ---
 
 # Intro
-I led the user research to redesign a fragmented data management system for population-based child assessment tools. The insights and recommendations resulted in a **185% reduction in processing time and supported South Africa's largest national survey of children's learning outcomes.**
+I led the user research to redesign a fragmented data management system for population-based child assessment tools. The insights and recommendations resulted in a **185% reduction in data processing time and supported South Africa's largest national survey of children's learning outcomes.**
 
 
 # About the project
