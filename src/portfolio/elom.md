@@ -29,7 +29,7 @@ ELOM developed population-based child assessment tools to determine whether chil
 
 
 # The Problem
-ELOM’s **data management system** faced significant challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
+ELOM’s **data management system** faced challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
 
 # Research goals
 - Assess the entire data value chain of the system
