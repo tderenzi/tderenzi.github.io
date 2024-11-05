@@ -58,10 +58,10 @@ The project was led by Dalberg, a strategy and policy firm contracted by the San
 Globally, 2.5 billion people lack access to improved sanitation. The Bill & Melinda Gates Foundation had invested in developing innovative toilet technology but needed to understand adoption pathways. **There was uncertainty about how to introduce this novel technology in low-income markets, making market-specific insights essential to inform both product design and go-to-market strategy.**
 
 # Research goals
-- Understand the pathways and opportunities for adopting RTs in Nigerian and Kenyan markets
-- Identify user needs, preferences and barriers to adoption
-- Evaluate technical parameters and infrastructure constraints
-- Develop actionable recommendations for product iteration and market entry
+- Identify pathways and opportunities for adopting RTs in the Nigerian and Kenyan markets.
+- Understand common sanitation needs, preferences, and behaviors across targeted user segments.
+- Pinpoint specific design characteristics of RTs that best address customer needs and behavioral patterns.
+- Generate insights to inform technical design and refine key product features of RTs.
 
 
 
