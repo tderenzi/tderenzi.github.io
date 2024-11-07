@@ -11,9 +11,9 @@ sectionsConfig:
     banner: Transforming a Data Management System To Operate at Scale
     clientTitle: Organization
     client: Early Learning Outcome Measurement (ELOM), now part of DataDrive2030
-    role: Lead UX Researcher
+    role: Head of Data Strategy & Lead UX Researcher
     timeline: 4 months
-    scope: Discovery & Evaluative Research
+    scope: Data Strategy, System Design, Discovery & Evaluative Research
   - title: About the project
     image: ELOM image.png
   - title: Impact
@@ -21,11 +21,11 @@ sectionsConfig:
 ---
 
 # Intro
-I led the user research to redesign a fragmented data management system for population-based child assessment tools. The insights and recommendations resulted in a **185% reduction in data processing time and supported South Africa's largest national survey of children's learning outcomes.**
+As Head of Data Strategy, I **led the redesign of a fragmented data management system and its UI for ELOM’s population-based child assessment tools.** My responsibility extended to developing scalable systems and building teams that could measure outcomes, supporting South Africa's largest national survey of children's learning outcomes. **My insights and strategic recommendations led to a 185% reduction in data processing time, enhancing the quality of early learning programs and influencing policy through data-driven impact tracking.**
 
 
 # About the project
-ELOM developed population-based child assessment tools to determine whether children are developmentally on track for their age. These tools evaluate early childhood programs' effectiveness, help organizations improve early learning interventions and guide policy decisions. **I was responsible for transforming their data management system to enable scale and improve efficiency**.
+**Innovation Edge, an impact-driven investor** in early childhood challenges in South Africa, invested and **partnered with ELOM to assess child development milestones and track the impact of their investments in education, health, and well-being.** ELOM’s assessments feed directly into the Thrive by Five index, a multi-sectoral effort led by the Department of Basic Education. This survey provides critical insights into early learning outcomes, shaping long-term national policy and program design. **I worked closely with ELOM to implement a centralized, scalable data strategy, optimizing both their data management system and UI for improved user experience and data accuracy**.
 
 
 # The Problem
