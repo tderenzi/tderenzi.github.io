@@ -10,7 +10,7 @@ sectionsConfig:
     layout: project_intro
     banner: Transforming a Data Management System To Operate at Scale
     clientTitle: Organization
-    client: Early Learning Outcome Measurement (ELOM), now part of DataDrive2030
+    client: Early Learning Outcome Measurement **(ELOM)**, now part of [Data Drive 2030](https://datadrive2030.co.za/data-tools/)
     role: Head of Data Strategy & Lead UX Researcher
     timeline: 4 months
     scope: Data Strategy, System Design, Discovery & Evaluative Research
@@ -32,33 +32,38 @@ As Head of Data Strategy, I **led the redesign of a fragmented data management s
 ELOM’s **data management system** faced challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
 
 # Research goals
-- Assess the entire data value chain of the system
-- Identify critical pain points across user journeys
-- Design an integrated, scalable, and secure solution
-- Improve organizational efficiency and data quality
+- **Evaluate Data Lifecycle**: Assess the full data value chain—from collection to analysis—**to identify pain points, refine processes, and pinpoint potential improvements.**
+  
+- **Identify User Pain Points**: Gather insights from key users, including the funder, field assessors, data analysts, project managers, early childhood development (ECD) experts, and early learning program (ELC) decision-makers **to understand frustrations and gaps in the current system.**
+  
+- **System and Governance Improvements**: Design targeted improvements in data management, project management, and field assessor retraining, while establishing a data governance framework aligned with South Africa’s Protection of Personal Information Act (POPIA).
+  
+- **Develop Onboarding and Decision Processes**: Create a centralized repository for all ELOM assessment requests to help the ELOM team effectively decide which projects to undertake. **This process aimed to align projects with ELOM's strategic goals and maximize organizational benefits.**
+  
+- **Iterative Testing with Stakeholders**: Test, analyze, and refine solutions with feedback from stakeholders, **ensuring that updates meet needs and compliance standards.**
+  
+- **Develop a Scalable System**: Build an integrated, flexible system capable of **handling multiple concurrent assessments and expanding assessment tool capabilities.**
+  
+- **Enable Impact Tracking and Policy Influence**: Create scalable systems and teams to measure outcomes, **helping Innovation Edge track investment impacts and influence educational policy through data-driven insights.**
+
 
 
 # What I did
-- **Discovery and Research**: conducted comprehensive stakeholder interviews and workflow analysis while evaluating existing tools to identify critical pain points in the current system.
-  
-- **Define**: Synthesized research insights into user personas, journey maps, and service blueprints while identifying key challenges around data centralization, quality, and security enhancement opportunities.
-  
-- **Ideate**: Led cross-functional brainstorming workshops to evaluate potential solutions, focusing on real-time monitoring systems and data collection tool integration.
-  
-- **Design & Test**: Developed and tested a centralized interface design through wireframes and user flows, iterating based on field team usability testing feedback.
-  
-- **Implementation**: Partnered with service providers to successfully integrate a data collection platform (SurveyCTO), while implementing centralized device management, real-time monitoring, and enhanced security controls.
+I led a multi-disciplinary effort to redesign the data management system, UI, and onboarding processes for ELOM’s assessment tools. My approach was methodically chosen to align with the project’s goals of scalability, efficiency, and data quality, and was informed by a deep understanding of the needs and constraints of our diverse stakeholders.
 
-# Key Insights
-- **Fragmentation Leads to Inefficiency**: Navigating between multiple systems was a key pain point for users, resulting in significant time wastage and data entry errors.
+- **Discovery & Research**: I conducted stakeholder interviews, workflow analyses, and tool evaluations to identify key pain points. **This approach helped us understand each user group’s unique challenges, ensuring our solutions were tailored to real-world needs and avoiding assumptions that could hinder adoption.**
   
-- **Centralization is Critical**: A unified platform significantly improved efficiency, minimized errors, and reduced security risks.
+- **Define**: I synthesized insights into personas, journey maps, and service blueprints, allowing us to visualize user interactions and focus on high-impact areas like data centralization, quality, and security. **This step was critical for aligning system improvements with user needs.**
   
-- **Real-Time Monitoring**: Lack of real-time data validation was causing downstream analysis issues.
+- **Ideate**: Facilitating cross-functional brainstorming workshops allowed team members to generate practical solutions and align around ideas like real-time monitoring and tool integration. **This collaborative approach fostered stakeholder buy-in and helped ensure that solutions were feasible and scalable.**
   
-- **Standardization**: Inconsistent processes for data cleaning hindered scalability and quality.
+- **Design & Test**: I led iterative design and usability testing, using both moderated and unmoderated sessions to gather realistic feedback. **This method was essential to refine the UI, improve data entry accuracy, and ensure ease of use across diverse environments.**
   
-- **Integrated Project Management**: Communication and task management were improved with the integration of a project management tool and processes
+- **Onboarding Process Development**: I created a centralized repository for assessment requests and a weighted decision matrix to prioritize projects based on strategic goals. **This structured approach allowed ELOM to make data-driven decisions, strategically allocate resources, and better track investment impact.**
+
+- **E-Learning Platform for Field Training**: We partnered with a service provider to transition field assessor retraining from in-person sessions to an online e-learning platform, enabling simultaneous nationwide training. **This scalable approach ensured that the workforce stayed current with the latest assessment requirements, supporting consistent, high-quality assessments across regions.**
+  
+- **Implementation**: Partnering with service providers, we integrated SurveyCTO to centralize data collection and added device management, real-time monitoring, and security measures to ensure compliance with POPIA. **This solution was chosen for its scalability and ability to support high data volume and varied field conditions.**
 
 # Impact
 - **Efficiency Gains**: Reduced data processing time by 185%, improved data quality, accelerated tool development, and strengthened teamwork.
