@@ -10,7 +10,7 @@ sectionsConfig:
     layout: project_intro
     banner: Transforming a Data Management System To Operate at Scale
     clientTitle: Organization
-    client: Early Learning Outcome Measurement **(ELOM)**, now part of [Data Drive 2030](https://datadrive2030.co.za/data-tools/)
+    client: Early Learning Outcome Measurement **(ELOM)**, now part of [Data Drive 2030](https://thrivebyfive.co.za/)
     role: Head of Data Strategy & Lead UX Researcher
     timeline: 4 months
     scope: Data Strategy, System Design, Discovery & Evaluative Research
