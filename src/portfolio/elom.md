@@ -10,7 +10,7 @@ sectionsConfig:
     layout: project_intro
     banner: Transforming a Data Management System To Operate at Scale
     clientTitle: Organization
-    client: Early Learning Outcome Measurement **(ELOM)**, now part of [Data Drive 2030](https://thrivebyfive.co.za/)
+    client: Early Learning Outcome Measurement (ELOM), now part of Data Drive 2030
     role: Head of Data Strategy & Lead UX Researcher
     timeline: 4 months
     scope: Data Strategy, System Design, Discovery & Evaluative Research
@@ -31,7 +31,7 @@ As Head of Data Strategy, I **led the redesign of a fragmented data management s
 # The Problem
 ELOM’s **data management system** faced challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
 
-# Research goals
+# Research and Strategic goals
 - **Evaluate Data Lifecycle**: Assess the full data value chain—from collection to analysis—**to identify pain points, refine processes, and pinpoint potential improvements.**
   
 - **Identify User Pain Points**: Gather insights from key users, including the funder, field assessors, data analysts, project managers, early childhood development (ECD) experts, and early learning program (ELC) decision-makers **to understand frustrations and gaps in the current system.**
@@ -66,10 +66,12 @@ I led a multi-disciplinary effort to redesign the data management system, UI, an
 - **Implementation**: Partnering with service providers, we integrated SurveyCTO to centralize data collection and added device management, real-time monitoring, and security measures to ensure compliance with POPIA. **This solution was chosen for its scalability and ability to support high data volume and varied field conditions.**
 
 # Impact
-- **Efficiency Gains**: Reduced data processing time by 185%, improved data quality, accelerated tool development, and strengthened teamwork.
+- **Efficiency and Security Enhancements**: Reduced ELOM’s data processing time by **185%**—from data collection to result communication—through a centralized database system that streamlined form design, enhanced quality control, and enabled real-time data monitoring and visualization. Additionally, implemented encryption and access controls to improve data security and visualization accessibility.
+
+- **Improved Assessment Accuracy**: By implementing color-coded instructions, hard-coded stop rules, and instructional videos, we **increased the consistency and reliability of data collected by field assessors. These improvements minimized assessor variation, reduced data errors, and led to more accurate, actionable insights into child development outcomes.**
+
+- **Cost-Effective Training**: The shift to an online e-learning platform **enabled simultaneous nationwide field assessment training, reducing costs, and eliminating the need for team travel**, making refresher training more accessible and sustainable.
    
-- **Security Enhancement**: Implemented encryption, access controls, and improved data visualization accessibility.
+- **Scale Achievement**: The redesign ELOM data management system & UI was utilized in South Africa's largest national survey, reaching 5,000+ participants ( representing ~600,000 children), resulting in improving early learning programs and influencing policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)
    
-- **Scale Achievement**: The redesign data management system was utilized in South Africa's largest national survey, reaching 5,000+ participants ( representing ~600,000 children), resulting in improving early learning programs and influencing policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)
-   
-- **Accelerated Tool Development**: Enabled rapid development of additional early childhood assessment tool development through real-time data monitoring, centralized database access, and faster analysis, iteration, and deployment.
+- **Informed Strategic Investments**: Enhanced data insights allowed Innovation Edge to optimize investments and make informed decisions in early learning programs, amplifying their impact across the sector.
