@@ -4,7 +4,7 @@ permalink: /portfolio/{{ page.fileSlug }}/
 title: ELOM
 subtitle: Transforming a Data Management System To Operate at Scale.
 image: ELOM image.png
-sort-order: 10
+sort-order: 20
 sectionsConfig:
   - title: Intro
     layout: project_intro
