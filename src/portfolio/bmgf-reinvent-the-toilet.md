@@ -4,7 +4,7 @@ permalink: /portfolio/{{ page.fileSlug }}/
 title: Bill & Melinda Gates Foundation
 subtitle: Enchancing the technical and business development of novel sanitation systems.
 image: bmgf_toilet.jpg
-sort-order: 20
+sort-order: 10
 sectionsConfig:
   - title: Intro
     layout: project_intro
