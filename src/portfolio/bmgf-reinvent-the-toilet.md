@@ -42,7 +42,7 @@ sectionsConfig:
         image: immersion.jpg
         description: "In local sanitation markets, we observed workflows and interviewed four vendors, identifying branding and marketing insights essential for RT positioning."
       - title: "Quantitative Surveys"
-        description: "The team initially conducted a portion of the 600 planned surveys in one country. After I joined, I led my team review and refine the survey for better alignment and triangulation with our qualitative data collection methods. With these adjustments, the team completed the remaining surveys, enabling us to integrate quantitative and qualitative insights for a comprehensive analysis."
+        description: "The Dalberg Research team initially conducted a portion of the 600 planned surveys in one country. After I joined, I led my team review and refine the survey for better alignment and triangulation with our qualitative data collection methods. With these adjustments, the team completed the remaining surveys, enabling us to integrate quantitative and qualitative insights for a comprehensive analysis."
         
 ---
 # Intro
