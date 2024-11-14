@@ -41,7 +41,7 @@ sectionsConfig:
       - title: "Immersion and intercept interviews"
         image: immersion.jpg
         description: "Conducted in local markets selling sanitation equipment, this method involved observing installation professionals and interviewing four vendors. By immersing ourselves in these markets, we identified critical branding and marketing considerations for RTs and gained insights into the full workflow of sanitation equipment, from purchase to installation."
-         - title: "Quantitative Surveys"
+      - title: "Quantitative Surveys"
         description: "The team initially conducted a portion of the 600 planned surveys in one country. After I joined, I reviewed and refined the survey for better alignment and triangulation with our qualitative data collection methods. With these adjustments, the team completed the remaining surveys, enabling us to integrate quantitative and qualitative insights for a comprehensive analysis."
         
 ---
