@@ -55,7 +55,7 @@ The project was led by Dalberg, a strategy and policy firm contracted by the San
 
 
 # The Problem
-Globally, 2.5 billion people lack access to improved sanitation. The Bill & Melinda Gates Foundation had invested in developing innovative toilet technology but needed to understand adoption pathways. **There was uncertainty about how to introduce this novel technology in low-income markets, making market-specific insights essential to inform both product design and go-to-market strategy.**
+Globally, 2 billion people lack access to basic sanitation [UNSTAT](https://unstats.un.org/sdgs/report/2020/goal-06/#:~:text=The%20population%20using%20safely%20managed,million%20people%20practised%20open%20defecation). The Bill & Melinda Gates Foundation had invested in developing innovative toilet technology but needed to understand adoption pathways. **There was uncertainty about how to introduce this novel technology in low-income markets, making market-specific insights essential to inform both product design and go-to-market strategy.**
 
 # Research goals
 - Identify pathways and opportunities for adopting RTs in the Nigerian and Kenyan markets.
