@@ -37,7 +37,7 @@ sectionsConfig:
         description: "Participants ranked sanitation features based on preference, revealing values, unmet needs, and upgrade priorities. Visual cards helped overcome language barriers, and observing non-verbal cues allowed deeper probing into preferences and biases."
       - title: "Concept testing"
         image: Concept Testing.jpg
-        description: "Since we didn't have a physical prototype due to development confidentiality, we created simple visual representations of the product's key features. We presented participants with a simplified image of the RT and engaged them in an in-depth discussion about the potential by-products that the toilet could produce. Using visual images, participants selected their top three preferred by-products, explaining their rationale. We also explored preferences for installation, maintenance, and payment, assessing alignment with local sanitation needs."
+        description: "We did not have a physical prototype due to development confidentiality, so we created simple visual representations of the product's key features. We presented participants with a simplified image of the RT and engaged them in an in-depth discussion about the potential by-products the toilet could produce. Using these visuals, participants selected their top three preferred by-products and explained their rationale. We also explored preferences for installation, maintenance, and willingness payment to assess alignment with local sanitation needs."
       - title: "Immersion and intercept interviews"
         image: immersion.jpg
         description: "In local sanitation markets, we observed workflows and interviewed four vendors, identifying branding and marketing insights essential for RT positioning."
