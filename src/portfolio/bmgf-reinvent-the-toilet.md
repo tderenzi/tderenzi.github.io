@@ -27,8 +27,8 @@ sectionsConfig:
     layout: project_research_methods
     shaded: true
     methods:
-    - title: "Multi-Method Approach"
-    - image: Multi-Method Approach.jpg
+      - title: "Multi-Method Approach"
+      - image: Multi-Method Approach.jpg
         description: "I designed a sequential, multi-method research approach to minimize bias due to the cultural sensitivity around sanitation. Beginning with contextual interviews allowed us to build trust with participants without disclosing our primary focus on sanitation, enabling us to gain genuine insights into their daily lives and needs. By layering methods—contextual inquiry, card sorting, concept testing, and surveys—we could cross-verify responses and explore discrepancies more deeply. This approach was essential in capturing nuanced, culturally embedded sanitation needs, ensuring the Reinvented Toilet (RT) design truly aligned with user expectations and priorities."
       - title: "Contextual interviews"
         image: Contextual Interviews.jpg
