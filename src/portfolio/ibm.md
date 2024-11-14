@@ -21,13 +21,13 @@ sectionsConfig:
     layout: project_research_methods
     methods:
       - title: "Environmental Audit"
-        description: "We observed user behavior and interaction with existing BMI and blood pressure kiosks in high-traffic areas. This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings."
+        description: "We observed user behavior and interaction with three existing BMI and blood pressure kiosks in moderate to high volume of foot traffic areas. This audit helped us identify local usage patterns, kiosk placement issues, and potential adoption barriers in Kenya’s urban settings."
         image: Environment Audit.png
       - title: "Usability Testing"
-        description: "Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. Participants included both target (culturally Kenyan) and non-target populations, allowing us to capture usability differences due to cultural context. We noted critical issues in task completion, error rates, and user comfort during key interactions."
+        description: "Using Nielsen’s heuristics, we conducted a heuristic evaluation followed by in-lab usability tests. Six participants included both target (culturally Kenyan) and non-target populations, allowing us to capture usability differences due to cultural context. We noted critical issues in task completion, error rates, and user comfort during key interactions."
         image: Usability Test Image.png
       - title: "Diverse User Groups"
-        description: "Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, **we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability.**"
+        description: "Due to research restrictions, participants were recruited from within IBM. To simulate realistic usage, we screened for culturally Kenyan and non-Kenyan users, providing a comparative understanding of how cultural background affected usability."
      
 
 ---
@@ -40,7 +40,7 @@ Hypertension is a growing health burden in sub-Saharan Africa, but access to hea
 
 
 # The Problem
-The healthcare team conducted primary research through literatute review and speaking with healthcare experts. However, they did not engage with potential target users nor had a great understanding of healthcare context in Kenya. Our role was to evaluate the kiosk that would provide an intuitive, culturally relevant user experience for patients managing hypertension in Kenya. 
+The healthcare team’s initial research relied on literature and expert consultations but lacked direct engagement with target users in Kenya. Our role was to bridge this gap by evaluating and improving the CHC kiosk’s usability and cultural relevance for effective hypertension management. 
 
 # Research goals
 - Identify cultural barriers and accessibility challenges
@@ -67,18 +67,20 @@ The healthcare team conducted primary research through literatute review and spe
 
 ![User satisfaction rating](/assets/images/Satisfaction.png){.image .is-centered}
 
-**Heuristic Evaluation Limitations**: Western-trained evaluators identified critical usability issues aligned with non-target population needs. However, many issues overlooked for target users, such as cultural familiarity and expectations for assistance, led to significant gaps. Our **research recommends localized heuristic evaluations for culturally diverse user groups**​.
+**Heuristic Evaluation Limitations**: Western-trained evaluators identified critical usability issues aligned with non-target population needs. However, many issues overlooked for target users, such as cultural familiarity and expectations for assistance, led to significant gaps. 
 
 
 # Business Impact
 
-- Simplified interface to reduce cognitive load and reliance on unfamiliar tech.
+- **Established Need for Foundational Research**: Demonstrated that early foundational research is essential to bridge the "Knowledge Gap" between users' existing knowledge and required task knowledge, improving intuitive interaction with complex kiosk systems.
   
-- Recommendations for foundational user research to ensure design alignment with cultural norms.
+- **Localized Heuristics for Cultural Relevance**: Emphasized the value of culturally tailored heuristics, helping align product design with local expectations and improving evaluation accuracy.
+
+- **Reduced Participant Bias in Usability Testing**: Adapted usability testing protocols to mitigate participant bias, leading to more honest, actionable feedback from users, which informed product adjustments for improved user satisfaction and engagement.
   
-- Insights led to the development of an innovation product testing methodology, which contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
+- **Patent Achievement**: Insights led to the development of an innovation product testing methodology, which contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
   
-- Co-authored a chapter with colleagues, contributing to the field with research insights and advancing industry knowledge on user experience in healthcare technology. This publication underscored the importance of cultural context and usability in designing impactful solutions for emerging markets. [Palmer, J.M., Ogunyoku, T.A., and Hammond, C.R., 2018](https://www.taylorfrancis.com/chapters/edit/10.1201/b22191-11/intuitive-interaction-industry-user-research-jesyka-palmer)
+- **Research Influence**: Co-authored a chapter with colleagues, contributing to the field with research insights and advancing industry knowledge on user experience in healthcare technology. This publication underscored the importance of cultural context and usability in designing impactful solutions for emerging markets. [Palmer, J.M., Ogunyoku, T.A., and Hammond, C.R., 2018](https://www.taylorfrancis.com/chapters/edit/10.1201/b22191-11/intuitive-interaction-industry-user-research-jesyka-palmer)
 
 
 
