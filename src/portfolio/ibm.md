@@ -36,7 +36,9 @@ I co-led user research to evaluate and optimize a late-stage prototype of a self
 
 
 # About the project
-Hypertension is a growing health burden in sub-Saharan Africa, but access to healthcare resources is limited. IBM Research| Africa's healthcare team aimed to address this problem by developing the Cognitive Health Companion (CHC) - a self-service health kiosk that  interacted, collected, analysed, and continually delivered consumable health data to patients. 
+Hypertension is a growing health burden in sub-Saharan Africa, affecting an estimated 10 - 20 million people across the region [Cappuncio, 2016](https://link.springer.com/article/10.1007/s11739-016-1423-9). A national survey in Kenya revealed that 24.5% of adults aged 18–69 years had hypertension, with only 15.6% aware of their condition [KENYA STEPwise, 2015](https://aphrc.org/wp-content/uploads/2019/07/Steps-Report-NCD-2015.pdf).
+
+To address these issues, IBM Research | Africa’s healthcare team developed the Cognitive Health Companion (CHC) – a self-service health kiosk designed to collect, analyze, and provide users with real-time health data. This innovative solution aimed to empower patients with hypertension to take control of their health in resource-constrained environments.
 
 
 # The Problem
