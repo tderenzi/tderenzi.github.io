@@ -39,7 +39,7 @@ sectionsConfig:
       - title: "Concept testing"
         image: Concept Testing.jpg
         description: "Since we didn't have a physical prototype due to development confidentiality, we created simple visual representations of the product's key features. We presented participants with a simplified image of the Reinvented Toilet (RT) and engaged them in an in-depth discussion about the potential by-products (e.g., treated water, compost) that the toilet could produce. Using visual images, participants selected their top three preferred by-products, explaining their rationale. We then explored practical aspects of the RT, including preferred installation locations, single vs. shared toilet preferences, device maintenance expectations, and willingness to pay. This allowed us to assess not only feature preferences but also their alignment with the sanitation needs in these communities."
-     - title: "Immersion and intercept interviews"
+      - title: "Immersion and intercept interviews"
         image: immersion.jpg
         description: "Conducted in local markets selling sanitation equipment, this method involved observing installation professionals and interviewing four vendors. By immersing ourselves in these markets, we identified critical branding and marketing considerations for RTs and gained insights into the full workflow of sanitation equipment, from purchase to installation."
         
