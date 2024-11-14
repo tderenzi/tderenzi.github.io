@@ -27,18 +27,19 @@ sectionsConfig:
     layout: project_research_methods
     shaded: true
     methods:
+    - title: "Multi-Method Approach"
+        description: "I designed a sequential, multi-method research approach to minimize bias due to the cultural sensitivity around sanitation. Beginning with contextual interviews allowed us to build trust with participants without disclosing our primary focus on sanitation, enabling us to gain genuine insights into their daily lives and needs. By layering methods—contextual inquiry, card sorting, concept testing, and surveys—we could cross-verify responses and explore discrepancies more deeply. This approach was essential in capturing nuanced, culturally embedded sanitation needs, ensuring the Reinvented Toilet (RT) design truly aligned with user expectations and priorities."
       - title: "Contextual interviews"
         image: Contextual Interviews.jpg
-        description: "Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers."
+        description: "Conducted 55 interviews across 2 hours each with landlords, tenants, and sanitation device sellers. This approach allowed us to observe and document participant behaviors and attitudes in their living environments, focusing on utilities such as water, electricity, and sanitation. Through these interviews, we mapped participants' utility needs, income sources, and spending patterns, uncovering key decision points related to sanitation. This process also enabled us to identify technical parameters (e.g., water for flushing, electricity requirements) essential for the functioning of Reinvented Toilets (RTs) in real-world conditions."
       - title: "Card sorting"
         image: Card Sorting.jpg
-        description: "Utilizing images, each with a particular sanitation feature, as discussion and prioritization tools. This exercise helped understand priorities and help uncover beliefs and biases."
+        description: "Used to understand participants' current priorities for upgrading sanitation systems. Each card depicted a feature under consideration, and participants ranked them based on preference, explaining their choices. This activity helped reveal underlying values and unmet needs while giving insight into immediate upgrade priorities. Visual cards helped overcome language barriers, allowing us to observe non-verbal cues, which facilitated further probing into preferences and biases."
       - title: "Concept testing"
         image: Concept Testing.jpg
-        description: "Engaging participants in a dialog around crafted prototypes to gauge preferences."
-      - title: "Immersion and intercept interviews"
+        description: "Since we didn't have a physical prototype due to development confidentiality, we created simple visual representations of the product's key features. We presented participants with a simplified image of the Reinvented Toilet (RT) and engaged them in an in-depth discussion about the potential by-products (e.g., treated water, compost) that the toilet could produce. Using visual images, participants selected their top three preferred by-products, explaining their rationale. We then explored practical aspects of the RT, including preferred installation locations, single vs. shared toilet preferences, device maintenance expectations, and willingness to pay. This allowed us to assess not only feature preferences but also their alignment with the sanitation needs in these communities."
         image: immersion.jpg
-        description: "Leveraging immersion in a specific context to rapidly engage with individuals and groups for quick supplemental insights."
+        description: "Conducted in local markets selling sanitation equipment, this method involved observing installation professionals and interviewing four vendors. By immersing ourselves in these markets, we identified critical branding and marketing considerations for RTs and gained insights into the full workflow of sanitation equipment, from purchase to installation."
         
 ---
 # Intro
