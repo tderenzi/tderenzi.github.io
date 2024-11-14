@@ -66,7 +66,15 @@ Globally, 2 billion people lack access to basic sanitation [UNSTAT](https://unst
 
 
 # What I did
-**Team Alignment**: I led a diverse team across two countries, ensuring clear communication of project objectives and roles. I developed comprehensive research and recruitment plans while coordinating with local fixers and guides. I also reviewed and refined the quantitative survey to enable data triangulation, ensuring that qualitative and quantitative insights could be integrated for a robust analysis.
+**Team Alignment**: I led two diverse field teams (10 members in total) across two countries, ensuring alignment and clear communication on project objectives and roles. I developed and implemented detailed research and recruitment plans, coordinating with local fixers and guides to facilitate seamless fieldwork.
+
+Upwards alignment was essential due to the multiple stakeholders involved. Dalberg contracted with the **Sanitation Technology Platform (STeP)** to streamline field testing and commercialization of new sanitation products for the **Bill & Melinda Gates Foundation (BMGF)**. Within Dalberg:
+
+- **Dalberg Advisors** led the market-sizing and go-to-market strategy.
+- **Dalberg Research** focused on quantitative research with target user groups.
+- **Dalberg Design**, my department, conducted qualitative research with the same user groups.
+
+To keep the project on track, I coordinated closely across Dalberg departments to ensure aligned objectives, improved execution, and integrated data collection efforts. I had weekly check-ins with **STeP** to share progress, discuss challenges, and adjust plans as needed. I also reported milestones to **BMGF**, presenting key deliverables and final insights to support data-driven decisions on product design and market strategy.
   
 # Research Methods
 - **Contextual interviews**: Interviewing, observing and carefully documenting attitudes and behaviors with landlords, tenants and sellers.
