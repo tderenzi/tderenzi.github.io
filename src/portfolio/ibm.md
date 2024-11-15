@@ -32,7 +32,7 @@ sectionsConfig:
 
 ---
 # Intro
-I co-led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team to ensure the solution was both usable and culturally relevant.
+I co-led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team (UX Researchers, Research Scientists, Engineers, and Medical Professionals) to ensure the solution was both usable and culturally relevant.
 
 
 # About the project
