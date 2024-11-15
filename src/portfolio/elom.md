@@ -25,8 +25,11 @@ I **led the redesign of a fragmented data management system and user interface f
 
 
 # About the project
-**Innovation Edge, an impact-driven investor** in early childhood challenges in South Africa, invested and **partnered with ELOM to assess child development milestones and track the impact of their investments in education, health, and well-being.** ELOM’s assessments feed directly into the Thrive by Five index, a multi-sectoral effort led by the Department of Basic Education. This survey provides critical insights into early learning outcomes, shaping long-term national policy and program design. **I worked closely with ELOM to implement a centralized, scalable data strategy, optimizing both their data management system and UI for improved user experience and data accuracy**.
+The **Early Learning Outcome Measurement (ELOM)** team developed **population-based child assessment tools to evaluate whether children are developmentally on track for their age**. These tools effectively measure a range of developmental outcomes in young children and provide critical insights into the quality of early learning environments in both home and program settings.
 
+**Innovation Edge**, an impact-driven investor focused on early childhood challenges, partnered with ELOM to fund and support the development and implementation of these tools. Beyond their investment, Innovation Edge played a critical role in integrating ELOM’s assessments into the Thrive by Five Index—a multi-sectoral initiative led by the Department of Basic Education. This national survey leverages ELOM’s tools to deliver critical insights into early learning outcomes, directly informing evidence-based policy and long-term program design. 
+
+**I collaborated with ELOM to implement a centralized, scalable data strategy, optimizing their data management system and user interface to enhance data accuracy and user experience.**. These improvements were critical to the successful execution of the Thrive by Five survey and its role in shaping long-term national strategies for early childhood development.
 
 # The Problem
 ELOM’s **data management system** faced challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
