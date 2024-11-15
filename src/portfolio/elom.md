@@ -29,10 +29,16 @@ The **Early Learning Outcome Measurement (ELOM)** team developed **population-ba
 
 **Innovation Edge**, an impact-driven investor focused on early childhood challenges, partnered with ELOM to fund and support the development and implementation of these tools. Beyond their investment, Innovation Edge played a critical role in integrating ELOM’s assessments into the Thrive by Five Index—a multi-sectoral initiative led by the Department of Basic Education. This national survey leverages ELOM’s tools to deliver critical insights into early learning outcomes, directly informing evidence-based policy and long-term program design. 
 
-**I collaborated with ELOM to implement a centralized, scalable data strategy, optimizing their data management system and user interface to enhance data accuracy and user experience.**. These improvements were critical to the successful execution of the Thrive by Five survey and its role in shaping long-term national strategies for early childhood development.
+**I collaborated with ELOM to implement a centralized, scalable data strategy, optimizing their data management system and user interface to enhance data accuracy and user experience.** These improvements were critical to the successful execution of the Thrive by Five survey and its role in shaping long-term national strategies for early childhood development.
 
 # The Problem
-ELOM’s **data management system** faced challenges due to **fragmentation**, with multiple servers and disconnected tools creating an unmanageable process for form creation, data entry, and storage. **The lack of centralization prevented real-time monitoring, complicated data cleaning, and raised data security concerns, leading to delays and inaccuracies. These inefficiencies impacted productivity, decision-making, and scalability.** 
+ELOM’s data management system was fragmented, with multiple servers and disconnected tools creating inefficiencies in form creation, data entry, and storage. This lack of centralization led to:
+
+- **Delayed Processes**: Fragmented workflows hindered real-time monitoring and slowed data cleaning.
+- **Data Security Risks**: Disjointed systems raised concerns about breaches and data loss.
+- **Limited Scalability**: The inefficiencies constrained productivity and scalability, complicating efforts to support initiatives like the Thrive by Five survey.
+  
+These challenges jeopardized ELOM’s ability to deliver reliable, high-quality data, impacting their mission to improve early childhood outcomes and inform evidence-based policy.
 
 # Research and Strategic goals
 - **Evaluate Data Lifecycle**: Assess the full data value chain—from collection to analysis—**to identify pain points, refine processes, and pinpoint potential improvements.**
