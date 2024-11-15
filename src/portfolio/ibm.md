@@ -69,16 +69,14 @@ The healthcare product research team’s initial exploration of the problem spac
 
 ![User satisfaction rating](/assets/images/Satisfaction.png){.image .is-centered}
 
-**Heuristic Evaluation Limitations**: Western-trained evaluators identified critical usability issues aligned with non-target population needs. However, many issues overlooked for target users, such as cultural familiarity and expectations for assistance, led to significant gaps. 
+**Heuristic Evaluation Limitations**: The standard heuristic evaluation, conducted by a Western multinational research team, provided a simplified approach to identifying usability issues. However, it overlooked cultural nuances in intuitive interactions, leading to an underestimation of the severity of some challenges. 
 
 
 # Business Impact
 
-- **Established Need for Foundational Research**: Demonstrated that early foundational research is essential to bridge the "Knowledge Gap" between users' existing knowledge and required task knowledge, improving intuitive interaction with complex kiosk systems.
-  
-- **Localized Heuristics for Cultural Relevance**: Emphasized the value of culturally tailored heuristics, helping align product design with local expectations and improving evaluation accuracy.
+- **Established Need for Foundational Research**: Highlighted the critical importance of designing products that are intuitive for target user groups, especially when the development team lacks direct experience or deep understanding of the users’ context. Emphasized the role of foundational research in bridging the "Knowledge Gap" between users’ existing knowledge and the skills required for successful interaction with complex kiosk systems.
 
-- **Reduced Participant Bias in Usability Testing**: Adapted usability testing protocols to mitigate participant bias, leading to more honest, actionable feedback from users, which informed product adjustments for improved user satisfaction and engagement.
+- **Reduced Participant Bias in Usability Testing**: Adapted usability testing protocols to mitigate participant bias, leading to more honest, actionable feedback from users, which informed product adjustments for improved user engagement.
   
 - **Patent Achievement**: Insights led to the development of an innovation product testing methodology, which contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
   
