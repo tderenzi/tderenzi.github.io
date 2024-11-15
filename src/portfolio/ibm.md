@@ -42,7 +42,7 @@ To address these issues, IBM Research | Africa’s healthcare team developed the
 
 
 # The Problem
-The healthcare team’s initial research relied on literature and expert consultations but lacked direct engagement with target users in Kenya. Our role was to bridge this gap by evaluating and improving the CHC kiosk’s usability and cultural relevance for effective hypertension management. 
+The healthcare product research team’s initial exploration of the problem space relied on literature and expert consultations but lacked direct engagement with target users in Kenya. Our role was to bridge this gap by evaluating and enhancing the CHC kiosk’s usability and cultural relevance to support effective hypertension management. 
 
 # Research goals
 - Identify cultural barriers and accessibility challenges
