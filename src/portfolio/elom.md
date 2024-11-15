@@ -21,7 +21,7 @@ sectionsConfig:
 ---
 
 # Intro
-I **led the redesign of a fragmented data management system and user interface for population-based child assessment tools, significantly streamlining operations and enhancing usability**. These improvements enabled the tools to be effectively used in South Africa's largest national survey of children's learning outcomes. My insights and strategic recommendations **achieved a 185% reduction in data processing time for the assessment tools, facilitating data-driven decision-making**. 
+I **led the redesign of a fragmented data management system and user interface for population-based child assessment tools, streamlining operations and enhancing usability**. These improvements enabled the tools to be effectively used in South Africa's largest national survey of children's learning outcomes. My insights and strategic recommendations **achieved a 185% reduction in data processing time for the assessment tools, facilitating data-driven decision-making**. 
 
 
 # About the project
