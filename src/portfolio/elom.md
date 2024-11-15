@@ -9,10 +9,10 @@ sectionsConfig:
   - title: Intro
     layout: project_intro
     banner: Transforming a Data Management System To Operate at Scale
-    clientTitle: Organization
-    client: Early Learning Outcome Measurement (ELOM), now part of Data Drive 2030
+    clientTitle: Organizations
+    client: Early Learning Outcome Measurement (ELOM), now part of Data Drive 2030 and Innovation Edge
     role: Head of Data Strategy & Lead UX Researcher
-    timeline: 4 months
+    timeline: 8 months
     scope: Data Strategy, System Design, Discovery & Evaluative Research
   - title: About the project
     image: ELOM image.png
@@ -21,7 +21,7 @@ sectionsConfig:
 ---
 
 # Intro
-As Head of Data Strategy, I **led the redesign of a fragmented data management system and its UI for ELOM’s population-based child assessment tools.** My responsibility extended to developing scalable systems and building teams that could measure outcomes, supporting South Africa's largest national survey of children's learning outcomes. **My insights and strategic recommendations led to a 185% reduction in data processing time, enhancing the quality of early learning programs and influencing policy through data-driven impact tracking.**
+I **led the redesign of a fragmented data management system and user interface for population-based child assessment tools, significantly streamlining operations and enhancing usability**. These improvements enabled the tools to be effectively used in South Africa's largest national survey of children's learning outcomes. My insights and strategic recommendations **achieved a 185% reduction in data processing time for the assessment tools, facilitating data-driven decision-making**. 
 
 
 # About the project
