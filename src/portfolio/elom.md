@@ -59,7 +59,7 @@ To address the challenges of a fragmented data management system and support ELO
 - **Develop a Scalable System**: Build an integrated system capable of handling multiple concurrent assessments while enhancing the capabilities of ELOM’s tools.
   
 **4. Drive Long-Term Impact**
-**Enable Impact Tracking and Policy Influence**: Develop scalable systems and teams to measure developmental outcomes, supporting Innovation Edge, the Department of Basic Education, early learning programs, and related initiatives. These systems ensured that investments and programs could track their impact effectively and shape education policy and program design through robust, data-driven insights.
+- **Enable Impact Tracking and Policy Influence**: Develop scalable systems and teams to measure developmental outcomes, supporting Innovation Edge, the Department of Basic Education, early learning programs, and related initiatives. These systems ensured that investments and programs could track their impact effectively and shape education policy and program design through robust, data-driven insights.
 
 # What I did
 I led a multi-disciplinary effort to redesign the data management system, UI, and onboarding processes for ELOM’s assessment tools. My approach was methodically chosen to align with the project’s goals of scalability, efficiency, and data quality, and was informed by a deep understanding of the needs and constraints of our diverse stakeholders.
