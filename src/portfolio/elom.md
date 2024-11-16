@@ -48,7 +48,7 @@ To address the challenges of a fragmented data management system and support ELO
 - **Identify User Pain Points**: Gather insights from key stakeholders, including funders, field assessors, data analysts, project managers, ECD experts, and decision-makers in early learning programs and initiatives. This research aimed to uncover frustrations, gaps, and unmet needs in the existing system.
 
 
-**2. Enhance System and Governance**
+**2 Enhance System and Governance**
 - **System and Governance Improvements**: Design targeted improvements in data and project management processes while establishing a data governance framework aligned with South Africa’s Protection of Personal Information Act (POPIA).
 - **Develop Onboarding and Decision Processes**: Create a centralized repository for assessment requests to streamline decision-making and ensure projects align with ELOM’s strategic priorities.
 
