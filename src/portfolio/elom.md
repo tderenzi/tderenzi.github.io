@@ -41,21 +41,25 @@ ELOM’s data management system was fragmented, with multiple servers and discon
 These challenges jeopardized ELOM’s ability to deliver reliable, high-quality data, impacting their mission to improve early childhood outcomes and inform evidence-based policy.
 
 # Research and Strategic goals
-- **Evaluate Data Lifecycle**: Assess the full data value chain—from collection to analysis—**to identify pain points, refine processes, and pinpoint potential improvements.**
-  
-- **Identify User Pain Points**: Gather insights from key users, including the funder, field assessors, data analysts, project managers, early childhood development (ECD) experts, and early learning program (ELC) decision-makers **to understand frustrations and gaps in the current system.**
-  
-- **System and Governance Improvements**: Design targeted improvements in data management, project management, and field assessor retraining, while establishing a data governance framework aligned with South Africa’s Protection of Personal Information Act (POPIA).
-  
-- **Develop Onboarding and Decision Processes**: Create a centralized repository for all ELOM assessment requests to help the ELOM team effectively decide which projects to undertake. **This process aimed to align projects with ELOM's strategic goals and maximize organizational benefits.**
-  
-- **Iterative Testing with Stakeholders**: Test, analyze, and refine solutions with feedback from stakeholders, **ensuring that updates meet needs and compliance standards.**
-  
-- **Develop a Scalable System**: Build an integrated, flexible system capable of **handling multiple concurrent assessments and expanding assessment tool capabilities.**
-  
-- **Enable Impact Tracking and Policy Influence**: Create scalable systems and teams to measure outcomes, **helping Innovation Edge track investment impacts and influence educational policy through data-driven insights.**
+To address the challenges of a fragmented data management system and support ELOM’s mission to evaluate developmental outcomes and influence policy, the following goals were established:
 
+**1. Diagnose the Current System**
+- **Evaluate the Data Lifecycle**: Analyze the entire data value chain—from collection to analysis—to identify inefficiencies, refine processes, and pinpoint opportunities for improvement.
 
+- **Identify User Pain Points**: Gather insights from key stakeholders, including funders, field assessors, data analysts, project managers, ECD experts, and decision-makers in early learning programs and initiatives. This research aimed to uncover frustrations, gaps, and unmet needs in the existing system.
+
+**2. Enhance System and Governance**
+- **System and Governance Improvements**: Design targeted improvements in data and project management processes while establishing a data governance framework aligned with South Africa’s Protection of Personal Information Act (POPIA).
+
+- **Develop Onboarding and Decision Processes**: Create a centralized repository for assessment requests to streamline decision-making and ensure projects align with ELOM’s strategic priorities.
+
+**3. Implement and Validate Solutions**
+- **Iterative Testing with Stakeholders**: Design and test solutions collaboratively with stakeholders to ensure updates meet user needs and compliance standards.
+
+- **Develop a Scalable System**: Build an integrated system capable of handling multiple concurrent assessments while enhancing the capabilities of ELOM’s tools.
+  
+**4. Drive Long-Term Impact**
+**Enable Impact Tracking and Policy Influence**: Develop scalable systems and teams to measure developmental outcomes, supporting Innovation Edge, the Department of Basic Education, early learning programs, and related initiatives. These systems ensured that investments and programs could track their impact effectively and shape education policy and program design through robust, data-driven insights.
 
 # What I did
 I led a multi-disciplinary effort to redesign the data management system, UI, and onboarding processes for ELOM’s assessment tools. My approach was methodically chosen to align with the project’s goals of scalability, efficiency, and data quality, and was informed by a deep understanding of the needs and constraints of our diverse stakeholders.
