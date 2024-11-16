@@ -64,19 +64,26 @@ To address the challenges of a fragmented data management system and support ELO
 # What I did
 I led a multi-disciplinary effort to redesign the data management system, UI, and onboarding processes for ELOM’s assessment tools. My approach was methodically chosen to align with the project’s goals of scalability, efficiency, and data quality, and was informed by a deep understanding of the needs and constraints of our diverse stakeholders.
 
-- **Discovery & Research**: I conducted stakeholder interviews, workflow analyses, and tool evaluations to identify key pain points. **This approach helped us understand each user group’s unique challenges, ensuring our solutions were tailored to real-world needs and avoiding assumptions that could hinder adoption.**
-  
-- **Define**: I synthesized insights into personas, journey maps, and service blueprints, allowing us to visualize user interactions and focus on high-impact areas like data centralization, quality, and security. **This step was critical for aligning system improvements with user needs.**
-  
-- **Ideate**: Facilitating cross-functional brainstorming workshops allowed team members to generate practical solutions and align around ideas like real-time monitoring and tool integration. **This collaborative approach fostered stakeholder buy-in and helped ensure that solutions were feasible and scalable.**
-  
-- **Design & Test**: I led iterative design and usability testing, using both moderated and unmoderated sessions to gather realistic feedback. **This method was essential to refine the UI, improve data entry accuracy, and ensure ease of use across diverse environments.**
-  
-- **Onboarding Process Development**: I created a centralized repository for assessment requests and a weighted decision matrix to prioritize projects based on strategic goals. **This structured approach allowed ELOM to make data-driven decisions, strategically allocate resources, and better track investment impact.**
+**1. Discovery & Research**
+- I conducted stakeholder interviews, workflow analyses, and tool evaluations to identify key pain points in the data lifecycle. **This research uncovered critical challenges for different user groups, including field assessors, data analysts, and decision-makers, ensuring that our solutions were grounded in real-world needs rather than assumptions.**
 
-- **E-Learning Platform for Field Training**: We partnered with a service provider to transition field assessor retraining from in-person sessions to an online e-learning platform, enabling simultaneous nationwide training. **This scalable approach ensured that the workforce stayed current with the latest assessment requirements, supporting consistent, high-quality assessments across regions.**
-  
-- **Implementation**: Partnering with service providers, we integrated SurveyCTO to centralize data collection and added device management, real-time monitoring, and security measures to ensure compliance with POPIA. **This solution was chosen for its scalability and ability to support high data volume and varied field conditions.**
+**2. Define & Align**
+- I **synthesized research insights into personas, journey maps, and service blueprints to visualize user interactions and pinpoint high-impact areas for improvement**, such as data centralization, quality, and security. These artifacts helped align stakeholders around system improvements and provided a clear roadmap for the redesign.
+
+**3. Ideation & Stakeholder Collaboration**
+- Through cross-functional brainstorming workshops, I facilitated the generation of practical solutions and fostered alignment on key ideas, such as real-time monitoring, integrated tools, and centralized data systems. **This collaborative process encouraged stakeholder buy-in and ensured the feasibility and scalability of proposed solutions.**
+
+**4. Design, Test, & Iterate**
+- I led iterative design processes, conducting both moderated and unmoderated usability testing sessions to refine the UI, improve data entry accuracy, and enhance ease of use. **Feedback from these sessions was instrumental in adapting the system for diverse environments and workflows.**
+
+**5. Onboarding & Decision Processes**
+- I developed a centralized repository for assessment requests and introduced a weighted decision matrix to prioritize projects based on strategic goals. **This structured onboarding process enabled ELOM and Innovation Edge to allocate resources effectively, align projects with organizational priorities, and better track investment impact.**
+
+**6. Scalable Training Solution**
+- To address the challenge of workforce scalability, I partnered with a service provider to transition field assessor retraining from in-person sessions to an online e-learning platform. **This scalable approach ensured that the workforce stayed current with the latest assessment requirements, supporting consistent, high-quality assessments across regions.**
+
+**7. Implementation & Integration**
+- In collaboration with a service provider, I integrated SurveyCTO to centralize data collection and added features like device management, real-time monitoring, and enhanced security measures. **These enhancements ensured compliance with POPIA and supported scalability for high data volumes across varied field conditions.**
 
 # Impact
 - **Efficiency and Security Enhancements**: Reduced ELOM’s data processing time by **185%**—from data collection to result communication—through a centralized database system that streamlined form design, enhanced quality control, and enabled real-time data monitoring and visualization. Additionally, implemented encryption and access controls to improve data security and visualization accessibility.
