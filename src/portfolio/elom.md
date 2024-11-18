@@ -117,7 +117,7 @@ I led a multi-disciplinary effort to redesign the data management system, UI, an
 # Impact
 - **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** This was achieved through a centralized database system with automated visualization capabilities, simplifying form design, enhancing quality control, and enabling real-time data monitoring. Additionally, encryption and access controls improved data security, ensuring compliance with privacy regulations and facilitating secure, accessible visual insights for stakeholders.
 
-- **Improved Assessment Accuracy**: Introduced color-coded instructions, hard-coded stop rules, and instructional videos, which increased the consistency and reliability of data collected by field assessors. **These improvements minimized variability, reduced errors, and produced more accurate, actionable insights into child development outcomes—essential for informing early childhood strategies.**
+- **Improved Assessment Accuracy**: Introduced color-coded instructions, hard-coded stop rules, and instructional videos, which increased the consistency and reliability of data collected by field assessors. **These improvements minimized variability, reduced errors by 20%, and produced more accurate, actionable insights into child development outcomes—essential for informing early childhood strategies.**
 
 - **Cost-Effective Training**: Transitioned field assessor retraining to an online e-learning platform, which **enabled simultaneous nationwide training, reducing costs by 87%, and eliminating the need for team travel**, making retraining more accessible and sustainable.
    
