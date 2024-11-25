@@ -38,7 +38,7 @@ I co-led user research to evaluate and optimize a late-stage prototype of a self
 # About the project
 Hypertension is a growing health burden in sub-Saharan Africa, affecting an estimated 10 - 20 million people across the region [Cappuncio, 2016](https://link.springer.com/article/10.1007/s11739-016-1423-9). A national survey in Kenya revealed that 24.5% of adults aged 18–69 years had hypertension, with only 15.6% aware of their condition [KENYA STEPwise, 2015](https://aphrc.org/wp-content/uploads/2019/07/Steps-Report-NCD-2015.pdf).
 
-To address these issues, IBM Research | Africa’s healthcare team developed the Cognitive Health Companion (CHC) – a self-service health kiosk designed to collect, analyze, and provide users with real-time health data. This innovative solution aimed to empower patients with hypertension to take control of their health in resource-constrained environments.
+To address these issues, IBM Research | Africa’s healthcare team developed the Cognitive Health Companion (CHC) – a self-service health kiosk designed to collect, analyze, and provide users with real-time health data. This innovative solution empowered patients with hypertension to take control of their health in resource-constrained environments. The kiosk featured a machine learning (ML) component that enabled continuous and accurate measurements, delivering tailored and personalized insights to users. By leveraging ML, the system adapted to individual health profiles, offering actionable recommendations that supported better health management and outcomes.
 
 
 # The Problem
@@ -55,7 +55,7 @@ The healthcare product research team’s initial exploration of the problem spac
 
 # Key Insights
 
-**Cultural context**: The environmental audit revealed that **users in Kenya were accustomed to kiosks with attendants assisting them, leading to a significant knowledge gap when interacting with our self-service kiosk**. For example, none of the target population group interacted with the tablet without first asking the moderator and assumed they did not need to interact with the CHC device for the service to initiate:
+**Cultural context**: The environmental audit revealed that **users in Kenya were accustomed to kiosks with attendants assisting them, leading to a significant knowledge gap when interacting with our self-service kiosk**. This impacted the ML system’s ability to collect reliable input data, as users struggled to interact with the kiosk correctly. For example, none of the target population group interacted with the tablet without first asking the moderator and assumed they did not need to interact with the CHC device for the service to initiate:
 
 > User-1 glanced around for a while and then stared at the tablet: "I need to read?"
 
@@ -63,9 +63,11 @@ The healthcare product research team’s initial exploration of the problem spac
 
 > User-6 asked: "Do I have to touch the machine? Do I talk to the machine or touch the button?"
 
-**Inferface Usability**: Target users experienced a **100% failure rate on registration and iris scanning** compared to a **66.7% failure** rate among non-target users. Task completion times for target users were on average **10.6% slower** than non-target users, particularly in the more complex registration and biometric tasks.
+These gaps in interaction meant the ML component had incomplete or delayed data to analyze, potentially affecting its ability to deliver personalized insights and undermining its predictive accuracy.
 
-**User Satisfaction**: Despite **usability issues, target participants rated satisfaction high (average satisfaction score of 9.33/10)**, whereas non-target users rated it significantly lower (5/10). This discrepancy suggests a **strong social desirability bias among target users**, masking potential dissatisfaction and usability issues.
+**Inferface Usability**: Target users experienced a **100% failure rate on registration and iris scanning** compared to a **66.7% failure** rate among non-target users. Task completion times for target users were on average **10.6% slower** than non-target users, particularly in the more complex registration and biometric tasks. These challenges introduced noisy or invalid data into the ML system, compromising its ability to establish accurate baselines for health measurements and reducing the reliability of personalized feedback.
+
+**User Satisfaction**: Despite **usability issues, target participants rated satisfaction high (average satisfaction score of 9.33/10)**, whereas non-target users rated it significantly lower (5/10). This discrepancy suggests a **strong social desirability bias among target users**, masking potential dissatisfaction and usability issues. Adjustments to the kiosk’s interface based on genuine user needs were essential to ensure that ML recommendations were both accurate and well-received.
 
 ![User satisfaction rating](/assets/images/Satisfaction.png){.image .is-centered}
 
@@ -74,9 +76,9 @@ The healthcare product research team’s initial exploration of the problem spac
 
 # Business Impact
 
-- **Established Need for Foundational Research**: Highlighted the critical importance of designing products that are intuitive for target user groups, especially when the development team lacks direct experience or deep understanding of the users’ context. Emphasized the role of foundational research in bridging the "Knowledge Gap" between users’ existing knowledge and the skills required for successful interaction with complex kiosk systems.
+- **Established Need for Foundational Research**: Highlighted the critical importance of designing products that are intuitive for target user groups, especially when the development team lacks direct experience or deep understanding of the users’ context. Emphasized the role of foundational research in bridging the "Knowledge Gap" between users’ existing knowledge and the skills required for successful interaction with complex kiosk systems. Additionally, executing foundational research ensures the ML system can function optimally by facilitating the collection of reliable, high-quality data from users, which is essential for generating accurate and actionable insights.
 
-- **Reduced Participant Bias in Usability Testing**: Adapted usability testing protocols to mitigate participant bias, leading to more honest, actionable feedback from users, which informed product adjustments for improved user engagement.
+- **Reduced Participant Bias in Usability Testing**: Adapted usability testing protocols to mitigate participant bias, leading to more honest, actionable feedback from users, which informed product adjustments for improved user engagement. 
   
 - **Patent Achievement**: Insights led to the development of an innovation product testing methodology, which contributed to protected intellectual property for IBM. [US20180189802 A1](https://www.taogunyoku.com/assets/pubs/System,%20Method%20and%20Computer%20Program%20Product%20For%20Sensory%20Simulation%20During%20Product%20Testing.pdf)
   
