@@ -15,7 +15,7 @@ sectionsConfig:
     timeline: 8 months
     scope: Data Strategy, System Design, Discovery & Evaluative Research
   - title: About the project
-    image: ELOM image.png
+    image: ELOM stakeholders.png
   - title: Impact
     image: thrive_by_5.png
 ---
