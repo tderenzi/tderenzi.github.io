@@ -32,6 +32,8 @@ The **Early Learning Outcome Measurement (ELOM)** team developed **population-ba
 # The Problem
 ELOM’s data management system was fragmented, with multiple servers and disconnected tools creating inefficiencies in form creation, data entry, and storage. This lack of centralization led to:
 
+<br/>
+
 - **Delayed Processes**: Fragmented workflows hindered real-time monitoring and slowed data cleaning.
 - **Data Security Risks**: Disjointed systems raised concerns about breaches and data loss.
 - **Limited Scalability**: The inefficiencies constrained productivity and scalability, complicating efforts to support initiatives like the Thrive by Five survey.
@@ -68,12 +70,14 @@ I led a multi-disciplinary effort to redesign the data management system, UI, an
 **Phase 1: Discovery & Strategy**
 In this phase, I focused on understanding the existing challenges, aligning stakeholders, and developing a strategic roadmap for redesigning ELOM's data management system and tools:
 
+<br/>
 {% inlineImage "ELOM phase 1.png", "ELOM phase 1", "is-one-third" %}
 
 - **Stakeholder Research**: Conducted in-depth interviews, workflow analyses, and tool evaluations to uncover critical pain points across the data lifecycle for key user groups, including field assessors, data analysts, and decision-makers. **This research uncovered critical challenges for different user groups ensuring that our solutions were grounded in real-world needs rather than assumptions.**
   
 - **Synthesized Insights**: Created personas, journey maps, and service blueprints to visualize user needs and interactions, identifying high-impact areas for improvement, including data centralization, quality control, and security. **These artifacts helped align stakeholders around system improvements and provided a clear roadmap for the redesign.**
 
+<br/>
 {% inlineTwoImages "ELOM Journey Map.png", "ELOM Journey Map", "ELOM Blueprint.png", "ELOM Blueprint" %}
 
 
@@ -83,6 +87,8 @@ In this phase, I focused on understanding the existing challenges, aligning stak
 
 **Phase 2: Design & Implementation**
 Building on the strategy, this phase focused on designing, testing, and deploying scalable solutions to address identified challenges:
+
+<br/>
 
 {% inlineImage "ELOM phase 2.png", "ELOM phase 2" %}
 
