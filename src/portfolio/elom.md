@@ -43,6 +43,8 @@ These challenges jeopardized ELOM’s ability to deliver reliable, high-quality 
 # Research and Strategic goals
 To address the challenges of a fragmented data management system and support ELOM’s mission to evaluate developmental outcomes and influence policy, the following goals were established:
 
+{% inlineImage "ELOM Research Goals.png", "ELOM Research Goals" %}
+
 **1. Diagnose the Current System**
 - **Evaluate the Data Lifecycle**: Analyze the entire data value chain—from collection to analysis—to identify inefficiencies, refine processes, and pinpoint opportunities for improvement.
 - **Identify User Pain Points**: Gather insights from key stakeholders, including funders, field assessors, data analysts, project managers, ECD experts, and decision-makers in early learning programs and initiatives. This research aimed to uncover frustrations, gaps, and unmet needs in the existing system.
