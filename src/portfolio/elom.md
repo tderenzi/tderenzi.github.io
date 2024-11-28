@@ -16,8 +16,6 @@ sectionsConfig:
     scope: Data Strategy, System Design, Discovery & Evaluative Research
   - title: About the project
     image: ELOM stakeholders.png
-  - title: Impact
-    image: thrive_by_5.png
 ---
 
 # Intro
@@ -70,16 +68,23 @@ I led a multi-disciplinary effort to redesign the data management system, UI, an
 **Phase 1: Discovery & Strategy**
 In this phase, I focused on understanding the existing challenges, aligning stakeholders, and developing a strategic roadmap for redesigning ELOM's data management system and tools:
 
+{% inlineImage "ELOM phase 1.png", "ELOM phase 1", "is-one-third" %}
+
 - **Stakeholder Research**: Conducted in-depth interviews, workflow analyses, and tool evaluations to uncover critical pain points across the data lifecycle for key user groups, including field assessors, data analysts, and decision-makers. **This research uncovered critical challenges for different user groups ensuring that our solutions were grounded in real-world needs rather than assumptions.**
   
 - **Synthesized Insights**: Created personas, journey maps, and service blueprints to visualize user needs and interactions, identifying high-impact areas for improvement, including data centralization, quality control, and security. **These artifacts helped align stakeholders around system improvements and provided a clear roadmap for the redesign.**
-  
+
+{% inlineTwoImages "ELOM Journey Map.png", "ELOM Journey Map", "ELOM Blueprint.png", "ELOM Blueprint" %}
+
+
 - **Strategic Alignment**: Facilitated cross-functional workshops to generate practical solutions, build stakeholder buy-in, and establish a roadmap for system improvements. **This collaborative process ensured the feasibility and scalability of proposed solutions.**
   
 - **Governance Development**: Introduced a data governance framework aligned with South Africa’s Protection of Personal Information Act (POPIA) to ensure compliance and enhance trust in the system.
 
 **Phase 2: Design & Implementation**
 Building on the strategy, this phase focused on designing, testing, and deploying scalable solutions to address identified challenges:
+
+{% inlineImage "ELOM phase 2.png", "ELOM phase 2" %}
 
 - **Centralized Tools and Monitoring**: Partnered with a service provider to integrate SurveyCTO, centralizing data collection and leveraging built-in features such as real-time monitoring, device management, and encryption to enhance workflow efficiency and security. **Centralization and monitoring supported scalability for high data volumes across varied field conditions.**
   
@@ -114,12 +119,16 @@ Real-time monitoring was suggested to flag issues at the point of entry, ensurin
 - Introducing an integrated project management system was recommended to formalize workflows and improve cross-team collaboration.
 
 # Impact
-- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** The system simplified form design, enabled real-time monitoring to improve quality control, and automatically generated visual reports after data processing. Encryption and access controls improved security, ensuring compliance with privacy regulations and providing stakeholders with secure, accessible insights.
+{% imageRight "ELOM Impact 1.png", "ELOM impact", "- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** The system simplified form design, enabled real-time monitoring to improve quality control, and automatically generated visual reports after data processing. Encryption and access controls improved security, ensuring compliance with privacy regulations and providing stakeholders with secure, accessible insights."  %}
 
 - **Improved Assessment Accuracy**: Introduced color-coded instructions, hard-coded stop rules, and instructional videos, which increased the consistency and reliability of data collected by field assessors. **These improvements minimized variability, reduced errors by 20%, and produced more accurate, actionable insights into child development outcomes—essential for informing early childhood strategies.**
 
 - **Cost-Effective Training**: Transitioned field assessor retraining to an online e-learning platform, which **enabled simultaneous nationwide training, reducing costs by 87%, and eliminating the need for team travel**, making retraining more accessible and sustainable.
    
 - **Scale Achievement**: The redesigned ELOM data management system and user interface supported South Africa's largest national survey, **Thrive by Five**, which reached over 5,000 participants and represented approximately 600,000 children. The insights generated from this survey improved early learning programs and influenced national policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)
+
+<br/>
+
+{% imageLeft "thrive_by_5.jpg", "Thrive by Five", "- **Scale Achievement**: The redesigned ELOM data management system and user interface supported South Africa's largest national survey, **Thrive by Five**, which reached over 5,000 participants and represented approximately 600,000 children. The insights generated from this survey improved early learning programs and influenced national policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)", "is-5"  %}
    
 - **Informed Strategic Investments**: Enhanced data insights empowered Innovation Edge, the Department of Basic Education, and early learning programs to optimize investments and make evidence-based decisions, amplifying their impact and ensuring resources were directed toward the most effective initiatives.
