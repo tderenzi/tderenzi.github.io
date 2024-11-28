@@ -91,7 +91,7 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 **System Efficiency**
 - Fragmented workflows, with seven servers and four disconnected tools, caused delays in data cleaning and analysis.
 - Manual data transfers introduced errors and increased security risks, including the potential exposure of personally identifiable information (PII).
-- A centralized system for device management, form creation, and data storage was recommended to streamline workflows, enable real-time monitoring, and ensure compliance with data privacy regulations.
+- A centralized system for device management, data collection form creation, and data storage was recommended to streamline workflows, enable real-time monitoring, and ensure compliance with data privacy regulations.
 
 **Data Quality**
 - Errors during data collection created downstream challenges for analysis, affecting data reliability.
