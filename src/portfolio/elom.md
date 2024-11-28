@@ -99,7 +99,7 @@ Real-time monitoring was suggested to flag issues at the point of entry, ensurin
 - Standardized workflows were identified as necessary to reduce variability and improve consistency across different regions and environments.
 
 **User Empowerment**
-- Empowering multiple users to create and manage forms was seen as a way to distribute workloads more effectively and increase user engagement.
+- Empowering multiple users to create and manage ELOM data collection forms was seen as a way to distribute workloads more effectively and increase user engagement.
 - Simplifying UI interactions and incorporating clear instructions was recommended to improve ease of use and minimize errors during data entry.
 - Training methods required scaling to meet workforce needs while maintaining consistency in the application of assessment tools.
 
