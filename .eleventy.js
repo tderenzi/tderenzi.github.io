@@ -41,6 +41,48 @@ module.exports = function(eleventyConfig) {
   });
 
   // Add inlineImage shortcode to both Liquid and Nunjucks
+  const imageLeftShortcode = function (src, alt, text, size = "is-one-third") {
+    const imagePath = "/assets/images/" + encodeURIComponent(src);
+    const renderedText = markdownLib.render(text);  // Render the markdown text
+
+    return `<div class="columns is-centered">
+      <div class="column ${size}">
+        <figure class="image">
+          <img src="${imagePath}" alt="${alt}">
+        </figure>
+      </div>
+      <div class="column">
+        ${renderedText}
+      </div>
+    </div>`;
+  };
+
+  eleventyConfig.addShortcode("imageLeft", imageLeftShortcode);
+  eleventyConfig.addLiquidShortcode("imageLeft", imageLeftShortcode);
+  eleventyConfig.addNunjucksShortcode("imageLeft", imageLeftShortcode);
+  
+  // Add inlineImage shortcode to both Liquid and Nunjucks
+  const imageRightShortcode = function (src, alt, text, size = "is-one-third") {
+    const imagePath = "/assets/images/" + encodeURIComponent(src);
+    const renderedText = markdownLib.render(text);  // Render the markdown text
+
+    return `<div class="columns is-centered">
+      <div class="column">
+        ${renderedText}
+      </div>
+      <div class="column ${size}">
+        <figure class="image">
+          <img src="${imagePath}" alt="${alt}">
+        </figure>
+      </div>
+    </div>`;
+  };
+
+  eleventyConfig.addShortcode("imageRight", imageRightShortcode);
+  eleventyConfig.addLiquidShortcode("imageRight", imageRightShortcode);
+  eleventyConfig.addNunjucksShortcode("imageRight", imageRightShortcode);
+
+  // Add inlineImage shortcode to both Liquid and Nunjucks
   const inlineImageShortcode = function (src, alt, size = "is-half") {
     const imagePath = "/assets/images/" + encodeURIComponent(src);
     return `<div class="columns is-centered">
@@ -51,6 +93,10 @@ module.exports = function(eleventyConfig) {
       </div>
     </div>`;
   };
+
+  eleventyConfig.addShortcode("inlineImage", inlineImageShortcode);
+  eleventyConfig.addLiquidShortcode("inlineImage", inlineImageShortcode);
+  eleventyConfig.addNunjucksShortcode("inlineImage", inlineImageShortcode);
 
   // Add inlineImage shortcode to both Liquid and Nunjucks
   const inlineTwoImagesShortcode = function (src1, alt1, src2, alt2, size = "is-one-third") {
@@ -70,10 +116,6 @@ module.exports = function(eleventyConfig) {
       </div>
     </div>`;
   };
-
-  eleventyConfig.addShortcode("inlineImage", inlineImageShortcode);
-  eleventyConfig.addLiquidShortcode("inlineImage", inlineImageShortcode);
-  eleventyConfig.addNunjucksShortcode("inlineImage", inlineImageShortcode);
 
   eleventyConfig.addShortcode("inlineTwoImages", inlineTwoImagesShortcode);
   eleventyConfig.addLiquidShortcode("inlineTwoImages", inlineTwoImagesShortcode);
