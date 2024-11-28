@@ -112,7 +112,7 @@ Real-time monitoring was suggested to flag issues at the point of entry, ensurin
 - Introducing an integrated project management system was recommended to formalize workflows and improve cross-team collaboration.
 
 # Impact
-- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** This was achieved through a centralized database system with automated visualization capabilities, simplifying form design, enhancing quality control, and enabling real-time data monitoring. Additionally, encryption and access controls improved data security, ensuring compliance with privacy regulations and facilitating secure, accessible visual insights for stakeholders.
+- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** The system simplified form design, enabled real-time monitoring to improve quality control, and automatically generated visual reports after data processing. Encryption and access controls enhanced security, ensuring compliance with privacy regulations and providing stakeholders with secure, accessible insights.
 
 - **Improved Assessment Accuracy**: Introduced color-coded instructions, hard-coded stop rules, and instructional videos, which increased the consistency and reliability of data collected by field assessors. **These improvements minimized variability, reduced errors by 20%, and produced more accurate, actionable insights into child development outcomes—essential for informing early childhood strategies.**
 
