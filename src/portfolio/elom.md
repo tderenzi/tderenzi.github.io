@@ -88,32 +88,28 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Prioritization Frameworks**: Developed a centralized repository for assessment requests and a weighted decision matrix to align projects with strategic goals and optimize resource allocation. **This structured onboarding process enabled ELOM and Innovation Edge to allocate resources effectively, align projects with organizational priorities, and better track investment impact.**
 
 # Insights & Recommendations
-**1. Fragmentation Causes Inefficiency and Security Risks**
-- Seven servers and four disconnected tools created inefficiencies, delaying data cleaning, analysis, and decision-making.
-- Fragmentation led to manual data transfers, errors, and inconsistent records, with PII transferred insecurely, risking data breaches.
+**System Efficiency**
+- Fragmented workflows, with seven servers and four disconnected tools, caused delays in data cleaning and analysis.
+- Manual data transfers introduced errors and increased security risks, including the potential exposure of personally identifiable information (PII).
+- A centralized system for device management, form creation, and data storage was recommended to streamline workflows, enable real-time monitoring, and ensure compliance with data privacy regulations.
 
-**2. Centralization is Essential for Efficiency and Security**
-- A centralized system for device management, form creation, and data storage would streamline workflows, reduce errors, and ensure compliance with data privacy.
-- Centralization would enable real-time monitoring and faster data analysis, addressing delays caused by fragmented systems.
+**Data Quality**
+- Errors during data collection created downstream challenges for analysis, affecting data reliability.
+Real-time monitoring was suggested to flag issues at the point of entry, ensuring cleaner, more accurate data.
+- Standardized workflows were identified as necessary to reduce variability and improve consistency across different regions and environments.
 
-**3. Data Entry Errors Cause Downstream Delays**
-- Errors during data collection propagated into analysis, leading to delays and inaccuracies.
-- Real-time monitoring could flag issues at the point of entry, ensuring cleaner, higher-quality data.
+**User Empowerment**
+- Empowering multiple users to create and manage forms was seen as a way to distribute workloads more effectively and increase user engagement.
+- Simplifying UI interactions and incorporating clear instructions was recommended to improve ease of use and minimize errors during data entry.
+- Training methods required scaling to meet workforce needs while maintaining consistency in the application of assessment tools.
 
-**4. User Empowerment Improves Engagement**
-- Allowing multiple users to create forms distributed workloads and increased engagement, improving data accuracy and accountability.
+**Visualization Delays**
+- Data visualization processes were delayed by system bottlenecks, with limited access to tools and over-reliance on a single data analyst.
+- Expanding access to visualization tools and automating key steps in the process was identified as critical to enabling faster, more efficient decision-making.
 
-**5. Standardization Enables Scalability**
-- Inconsistent processes for data cleaning and assessment administration led to errors and skewed results.
-- Standardized workflows would reduce variability and support scalability across regions.
-
-**6. Visualization Delays Hinder Efficiency**
-- Visualizations were slow to develop due to bottlenecks previously mentioned. Only one data analyst had access to the tool and was overwhelmed by other inefficiencies, creating a backlog.
-- Expanding access to visualization tools and automating the process would improve efficiency and timely decision-making.
-
-**7. Project Management Requires Tools and Formal Processes**
-- The absence of a project management tool and reliance on informal processes caused inefficiencies in task coordination and resource allocation.
-- Introducing an integrated project management system and formalizing workflows would improve collaboration and reduce delays.
+**Project Management**
+- The lack of formal project management tools and processes resulted in inefficiencies in task coordination and resource allocation.
+- Introducing an integrated project management system was recommended to formalize workflows and improve cross-team collaboration.
 
 # Impact
 - **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** This was achieved through a centralized database system with automated visualization capabilities, simplifying form design, enhancing quality control, and enabling real-time data monitoring. Additionally, encryption and access controls improved data security, ensuring compliance with privacy regulations and facilitating secure, accessible visual insights for stakeholders.
