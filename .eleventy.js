@@ -52,9 +52,32 @@ module.exports = function(eleventyConfig) {
     </div>`;
   };
 
+  // Add inlineImage shortcode to both Liquid and Nunjucks
+  const inlineTwoImagesShortcode = function (src1, alt1, src2, alt2, size = "is-one-third") {
+    const imagePath1 = "/assets/images/" + encodeURIComponent(src1);
+    const imagePath2 = "/assets/images/" + encodeURIComponent(src2);
+    return `<div class="columns is-centered">
+      <div class="column ${size}">
+        <figure class="image">
+          <img src="${imagePath1}" alt="${alt1}">
+        </figure>
+      </div>
+      <div class="column is-1">&nbsp;</div>
+      <div class="column ${size}">
+        <figure class="image">
+          <img src="${imagePath2}" alt="${alt2}">
+        </figure>
+      </div>
+    </div>`;
+  };
+
   eleventyConfig.addShortcode("inlineImage", inlineImageShortcode);
   eleventyConfig.addLiquidShortcode("inlineImage", inlineImageShortcode);
   eleventyConfig.addNunjucksShortcode("inlineImage", inlineImageShortcode);
+
+  eleventyConfig.addShortcode("inlineTwoImages", inlineTwoImagesShortcode);
+  eleventyConfig.addLiquidShortcode("inlineTwoImages", inlineTwoImagesShortcode);
+  eleventyConfig.addNunjucksShortcode("inlineTwoImages", inlineTwoImagesShortcode);
 
   // splitSections function
   eleventyConfig.addNunjucksGlobal("splitSections", function(content) {
