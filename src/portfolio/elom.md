@@ -75,7 +75,7 @@ In this phase, I focused on understanding the existing challenges, aligning stak
 
 - **Stakeholder Research**: Conducted in-depth interviews, workflow analyses, and tool evaluations to uncover critical pain points across the data lifecycle for key user groups, including field assessors, data analysts, and decision-makers. **This research uncovered critical challenges for different user groups ensuring that our solutions were grounded in real-world needs rather than assumptions.**
   
-- **Synthesized Insights**: Created personas, journey maps, and service blueprints to visualize user needs and interactions, identifying high-impact areas for improvement, including data centralization, quality control, and security. **These artifacts helped align stakeholders around system improvements and provided a clear roadmap for the redesign.**
+- **Synthesized Insights**: Created personas, **journey maps**, and **service blueprints** to visualize user needs and interactions, identifying high-impact areas for improvement, including data centralization, quality control, and security. **These artifacts helped align stakeholders around system improvements and provided a clear roadmap for the redesign.**
 
 <br/>
 {% inlineTwoImages "ELOM Journey Map.png", "ELOM Journey Map", "ELOM Blueprint.png", "ELOM Blueprint" %}
@@ -131,7 +131,6 @@ Real-time monitoring was suggested to flag issues at the point of entry, ensurin
 
 - **Cost-Effective Training**: Transitioned field assessor retraining to an online e-learning platform, which **enabled simultaneous nationwide training, reducing costs by 87%, and eliminating the need for team travel**, making retraining more accessible and sustainable.
    
-- **Scale Achievement**: The redesigned ELOM data management system and user interface supported South Africa's largest national survey, **Thrive by Five**, which reached over 5,000 participants and represented approximately 600,000 children. The insights generated from this survey improved early learning programs and influenced national policy. For the full report please visit: [Thrive By Five](https://thrivebyfive.co.za/)
 
 <br/>
 
