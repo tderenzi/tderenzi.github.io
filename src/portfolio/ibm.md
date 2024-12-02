@@ -35,7 +35,7 @@ sectionsConfig:
 I co-led user research to evaluate and optimize a late-stage prototype of a self-service health kiosk aimed at managing hypertension in resource-constrained environments, working closely with a multidisciplinary team (UX Researchers, Research Scientists, Engineers, and Medical Professionals) to ensure the solution was both usable and culturally relevant.
 
 
-# About the project
+# About the Project
 Hypertension is a growing health burden in sub-Saharan Africa, affecting an estimated 10 - 20 million people across the region [Cappuncio, 2016](https://link.springer.com/article/10.1007/s11739-016-1423-9). A national survey in Kenya revealed that 24.5% of adults aged 18–69 years had hypertension, with only 15.6% aware of their condition [KENYA STEPwise, 2015](https://aphrc.org/wp-content/uploads/2019/07/Steps-Report-NCD-2015.pdf).
 
 To address these issues, **IBM Research | Africa**’s healthcare team developed the Cognitive Health Companion (CHC) – a self-service health kiosk designed to collect, analyze, and provide users with real-time health data. This innovative solution empowered patients with hypertension to take control of their health in resource-constrained environments. The kiosk featured a machine learning (ML) component that enabled continuous and accurate measurements, delivering tailored and personalized insights to users. By leveraging ML, the system adapted to individual health profiles, offering actionable recommendations that supported better health management and outcomes.
@@ -44,7 +44,7 @@ To address these issues, **IBM Research | Africa**’s healthcare team developed
 # The Problem
 The healthcare product research team’s initial exploration of the problem space relied on literature and expert consultations but lacked direct engagement with target users in Kenya. Our role was to bridge this gap by evaluating and enhancing the CHC kiosk’s usability and cultural relevance to support effective hypertension management. 
 
-# Research goals
+# Research Goals
 - Identify cultural barriers and accessibility challenges
 - Evaluate usability of the CHC kiosk prototype
 - Assess user comfort with self-service health technology
