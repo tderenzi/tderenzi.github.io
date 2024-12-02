@@ -40,7 +40,7 @@ ELOM’s data management system was fragmented, with multiple servers and discon
   
 These challenges jeopardized ELOM’s ability to deliver reliable, high-quality data, impacting their mission to improve early childhood outcomes and inform evidence-based policy.
 
-# Research and Strategic goals
+# Research and Strategic Goals
 To address the challenges of a fragmented data management system and support ELOM’s mission to evaluate developmental outcomes and influence policy, the following goals were established:
 
 {% inlineImage "ELOM Research Goals.png", "ELOM Research Goals" %}
@@ -64,7 +64,7 @@ To address the challenges of a fragmented data management system and support ELO
 - **Enable Impact Tracking and Policy Influence**: Develop scalable systems and teams to measure developmental outcomes, supporting Innovation Edge, the Department of Basic Education, early learning programs, and related initiatives. These systems ensured that investments and programs could track their impact effectively and shape education policy and program design through robust, data-driven insights.
 
 
-# What I did
+# What I Did
 I led a multi-disciplinary effort to redesign the data management system, UI, and onboarding processes for ELOM’s assessment tools. My approach prioritized scalability, efficiency, and data quality, leveraging a deep understanding of the needs and constraints of diverse stakeholders. The work spanned two critical phases: **Discovery & Strategy** and **Design & Implementation**, ensuring solutions were both stakeholder-driven and operationally feasible.
 
 **Phase 1: Discovery & Strategy**
