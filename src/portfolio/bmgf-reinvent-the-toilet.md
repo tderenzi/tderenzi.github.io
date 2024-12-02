@@ -14,7 +14,7 @@ sectionsConfig:
     role: Senior Design Researcher and Team Lead
     timeline: 8 weeks
     scope: Foundational Research
-  - title: About the project
+  - title: About the Project
     image: Bill Gates.png
   - title: Business Impact
     image: thrive_by_5.png
