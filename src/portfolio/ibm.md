@@ -3,7 +3,7 @@ layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: IBM Research
 subtitle: Solving for Limited Healthcare Access in Sub-Saharan Africa.
-image: IBMRA.png
+image: IBM.png
 sort-order: 30
 sectionsConfig:
   - title: Intro
