@@ -3,7 +3,7 @@ layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: IBM Research
 subtitle: Solving for Limited Healthcare Access in Sub-Saharan Africa.
-image: CHK_IBM.jpg
+image: IBMRA.jpg
 sort-order: 30
 sectionsConfig:
   - title: Intro
@@ -15,7 +15,7 @@ sectionsConfig:
     timeline: 6 weeks
     scope: Evaluative Research
   - title: About the project
-    image: IBMRA.jpg
+    image: CHK_IBM.jpg
   - title: Business Impact
   - title: Research Methods
     layout: project_research_methods
