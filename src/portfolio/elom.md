@@ -22,7 +22,7 @@ sectionsConfig:
 I **led the redesign of a fragmented data management system and user interface for population-based child assessment tools, streamlining operations and enhancing usability**. These improvements enabled the tools to be effectively used in South Africa's largest national survey of children's learning outcomes. My insights and strategic recommendations **achieved a 185% reduction in data processing time for the assessment tools, facilitating data-driven decision-making**. 
 
 
-# About the Project
+# About the project
 The **Early Learning Outcome Measurement (ELOM)** team developed **population-based child assessment tools to evaluate whether children are developmentally on track for their age**. These tools effectively measure a range of developmental outcomes in young children and provide critical insights into the quality of early learning environments in both home and program settings.
 
 **Innovation Edge**, an impact-driven investor focused on early childhood challenges, partnered with ELOM to fund and support the development and implementation of these tools. Beyond their investment, Innovation Edge played a critical role in integrating ELOM’s assessments into the Thrive by Five Index—a multi-sectoral initiative led by the **Department of Basic Education**. This national survey leverages ELOM’s tools to deliver critical insights into early learning outcomes, directly informing evidence-based policy and long-term program design. 
