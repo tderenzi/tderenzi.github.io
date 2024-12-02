@@ -102,27 +102,27 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 
 # Insights & Recommendations
 **System Efficiency**
-- Fragmented workflows, with seven servers and four disconnected tools, caused delays in data cleaning and analysis.
-- Manual data transfers introduced errors and increased security risks, including the potential exposure of personally identifiable information (PII).
-- A centralized system for device management, data collection form creation, and data storage was recommended to streamline workflows, enable real-time monitoring, and ensure compliance with data privacy regulations.
+- **Fragmented Workflows**: Seven servers and four disconnected tools caused delays in data cleaning and analysis.
+- **Manual Errors & Security Risks**: Manual data transfers led to errors and risked exposing personally identifiable information (PII).
+- **Recommended Solution**: Implement a centralized system for device management, data collection form creation, and data storage to streamline workflows, enable real-time monitoring, and ensure compliance with privacy regulations.
 
 **Data Quality**
-- Errors during data collection created downstream challenges for analysis, affecting data reliability.
-Real-time monitoring was suggested to flag issues at the point of entry, ensuring cleaner, more accurate data.
-- Standardized workflows were identified as necessary to reduce variability and improve consistency across different regions and environments.
+- **Collection Errors**: Data entry errors, along with inconsistencies in how field assessors interpreted instructions or assessed children’s activities, disrupted downstream analysis and affected the reliability of results.
+- **Real-Time Monitoring**: Implementing real-time monitoring was recommended to flag data entry issues and ensure greater accuracy during the collection process.
+- **Standardization**: Establishing consistent workflows and providing clearer instructions were essential to reduce variability across regions and environments, addressing both data entry errors and assessor bias.
 
 **User Empowerment**
-- Empowering multiple users to create and manage ELOM data collection forms was seen as a way to distribute workloads more effectively and increase user engagement.
-- Simplifying UI interactions and incorporating clear instructions was recommended to improve ease of use and minimize errors during data entry.
-- Training methods required scaling to meet workforce needs while maintaining consistency in the application of assessment tools.
+- **Form Management**: Enabling multiple users to create and manage forms was recommended to distribute workloads.
+- **UI Enhancements**: Simplified interactions and clear instructions were suggested to minimize errors during data entry.
+- **Scalable Training**: Expanded training methods were needed to meet workforce demands while maintaining consistency.
 
 **Visualization Delays**
-- Data visualization processes were delayed by system bottlenecks, with limited access to tools and over-reliance on a single data analyst.
-- Expanding access to visualization tools and automating key steps in the process was identified as critical to enabling faster, more efficient decision-making.
+- **System Bottlenecks**: Limited access to tools and dependence on a single analyst delayed visualizations.
+- **Recommended Solution**: Expand access to visualization tools and automate key steps to accelerate decision-making.
 
 **Project Management**
-- The lack of formal project management tools and processes resulted in inefficiencies in task coordination and resource allocation.
-- Introducing an integrated project management system was recommended to formalize workflows and improve cross-team collaboration.
+- **Inefficient Coordination**: The lack of formal tools and workflows created task and resource inefficiencies.
+- **Recommended Solution**: Introduce an integrated project management tool and system to improve collaboration and streamline processes.
 
 # Impact
 {% imageRight "ELOM Impact 1.png", "ELOM impact", "- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** The system simplified form design, enabled real-time monitoring to improve quality control, and automatically generated visual reports after data processing. Encryption and access controls improved security, ensuring compliance with privacy regulations and providing stakeholders with secure, accessible insights."  %}
