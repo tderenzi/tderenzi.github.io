@@ -52,7 +52,7 @@ The insights and recommendations helped guide the foundation's strategic investm
 
 
 
-# About the project
+# About the Project
 I was hired as the Senior Design Research Lead for **an initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
 
 The project was led by Dalberg, a strategy and policy firm contracted by the Sanitation Technology Platform, an organization supporting the development and commercialization of BMGF's new sanitation products. **I collaborated with a cross-functional team, including product designers, UX fellows, data collectors, and local guides, to conduct comprehensive field research across multiple cities.**
@@ -61,7 +61,7 @@ The project was led by Dalberg, a strategy and policy firm contracted by the San
 # The Problem
 Globally, 2 billion people lack access to basic sanitation [UNSTAT](https://unstats.un.org/sdgs/report/2020/goal-06/#:~:text=The%20population%20using%20safely%20managed,million%20people%20practised%20open%20defecation). The Bill & Melinda Gates Foundation had invested in developing innovative toilet technology but needed to understand adoption pathways. **There was uncertainty about how to introduce this novel technology in low-income markets, making market-specific insights essential to inform both product design and go-to-market strategy.**
 
-# Research goals
+# Research Goals
 - Identify pathways and opportunities for adopting RTs in the Nigerian and Kenyan markets.
 - Understand common sanitation needs, preferences, and behaviors across targeted user segments.
 - Pinpoint specific design characteristics of RTs that best address customer needs and behavioral patterns.
@@ -69,7 +69,7 @@ Globally, 2 billion people lack access to basic sanitation [UNSTAT](https://unst
 
 
 
-# What I did
+# What I Did
 **Team Alignment**: I led two diverse field teams (10 members in total) across two countries, ensuring alignment and clear communication on project objectives and roles. I developed and implemented detailed research and recruitment plans, coordinating with local fixers and guides to facilitate seamless fieldwork.
 
 Upwards alignment was essential due to the multiple stakeholders involved. Dalberg contracted with the **Sanitation Technology Platform (STeP)** to streamline field testing and commercialization of new sanitation products for the **Bill & Melinda Gates Foundation (BMGF)**. Within Dalberg:
