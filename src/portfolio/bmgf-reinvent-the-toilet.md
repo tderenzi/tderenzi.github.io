@@ -14,7 +14,7 @@ sectionsConfig:
     role: Senior Design Researcher and Team Lead
     timeline: 8 weeks
     scope: Foundational Research
-  - title: About the Project
+  - title: About the project
     image: Bill Gates.png
   - title: Business Impact
     image: thrive_by_5.png
@@ -52,7 +52,7 @@ The insights and recommendations helped guide the foundation's strategic investm
 
 
 
-# About the Project
+# About the project
 I was hired as the Senior Design Research Lead for **an initiative funded by the Bill & Melinda Gates Foundation (BMGF) to explore market opportunities for their Reinvented Toilets (RTs) — novel sanitation systems designed to address global sanitation challenges.** 
 
 The project was led by Dalberg, a strategy and policy firm contracted by the Sanitation Technology Platform, an organization supporting the development and commercialization of BMGF's new sanitation products. **I collaborated with a cross-functional team, including product designers, UX fellows, data collectors, and local guides, to conduct comprehensive field research across multiple cities.**
