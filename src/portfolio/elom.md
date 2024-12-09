@@ -116,7 +116,7 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Inefficient Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
 - **Recommended Solution**: Implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
 
-**Visualization Delays**
+**Data Visualization**
 - **System Bottlenecks**: Limited access to tools and dependence on a single analyst delayed visualizations.
 - **Recommended Solution**: Expand access to visualization tools and automate key steps to accelerate decision-making.
 
