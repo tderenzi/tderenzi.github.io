@@ -117,8 +117,8 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Recommended Solution**: Implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
 
 **Data Visualization**
-- **System Bottlenecks**: Limited access to tools and dependence on a single analyst delayed visualizations.
-- **Recommended Solution**: Expand access to visualization tools and automate key steps to accelerate decision-making.
+- **Manual Reporting Process**: The method of generating ELOM reports was manual and labor-intensive, relying on Excel for data manipulation and Stata for coding. The sole ELOM data analyst had to manually input data, sort variables, and ensure correct placement, which led to errors and time-consuming efforts, and delayed outputs.
+- **Recommended Solution**: Expand access to visualization tools (e.g. Power BI and Tableau) and automate reporting processes.
 
 **Project Management & Processes**
 - **Inefficient Coordination**: The lack of formal tools and workflows led to inefficiencies in task and resource management.
