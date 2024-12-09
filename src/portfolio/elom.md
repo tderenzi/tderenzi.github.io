@@ -108,22 +108,24 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 
 **Data Quality**
 - **Collection Errors**: Data entry errors, along with inconsistencies in how field assessors interpreted instructions or assessed children’s activities, disrupted downstream analysis and affected the reliability of results.
-- **Real-Time Monitoring**: Implementing real-time monitoring was recommended to flag data entry issues and ensure greater accuracy during the collection process.
-- **Standardization**: Establishing consistent workflows and providing clearer instructions were essential to reduce variability across regions and environments, addressing both data entry errors and assessor bias.
-
+- **Recommended Solutions**: Implement a real-time monitoring to flag data entry issues and ensure greater accuracy during the collection process. Improve user interfaces with simplified workflows and intuitive design elements to reduce data entry errors and enhance usability.
+  
 **User Empowerment**
-- **Form Management**: Enabling multiple users to create and manage forms was recommended to distribute workloads.
-- **UI Enhancements**: Simplified interactions and clear instructions were suggested to minimize errors during data entry.
-- **Scalable Training**: Expanded training methods were needed to meet workforce demands while maintaining consistency.
+- **Scalable Training for Field Assessors**: Field assessors, spread across the country, required regular retraining to stay up to date with credentials and conduct assessments. In-person sessions were expensive, time-consuming, and limited in frequency, as they required a minimum number of participants to justify costs.
+- **Recommended Solution**: Explore a cost-effective method for field retraining, such as an online or hybrid solution, to address workforce demands and maintain consistency.
+- **Simplified Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
+- **Recommended Solution**: Implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
 
 **Visualization Delays**
 - **System Bottlenecks**: Limited access to tools and dependence on a single analyst delayed visualizations.
 - **Recommended Solution**: Expand access to visualization tools and automate key steps to accelerate decision-making.
 
-**Project Management**
-- **Inefficient Coordination**: The lack of formal tools and workflows created task and resource inefficiencies.
-- **Recommended Solution**: Introduce an integrated project management tool and system to improve collaboration and streamline processes.
-
+**Project Management & Processes**
+- **Inefficient Coordination**: The lack of formal tools and workflows led to inefficiencies in task and resource management.
+- **Recommended Solution**: Introduce an integrated project management tool to improve collaboration and streamline workflows. Additionally, implement a decision-making framework to provide structured methodologies for selecting and funding ELOM assessments for organizations.
+- **Informal Processes**: The ELOM operations team worked without standardized workflows or clear processes, resulting in inconsistent task execution and gaps in data management practices.
+- **Recommended Solutions**: Develop and implement consistent workflows (e.g., a process for providing feedback to field assessors on the quality of assessments) and operational guidelines (e.g., deletion of completed forms once the data has been sent to the server). These measures will improve efficiency, ensure the quality of assessments, and enhance adherence to data governance
+  
 # Impact
 {% imageRight "ELOM Impact 1.png", "ELOM impact", "- **Efficiency and Security Enhancements**: **Reduced ELOM’s data processing time by 185%, streamlining workflows from data collection to result communication.** The system simplified form design, enabled real-time monitoring to improve quality control, and automatically generated visual reports after data processing. Encryption and access controls improved security, ensuring compliance with privacy regulations and providing stakeholders with secure, accessible insights."  %}
 
