@@ -110,7 +110,7 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Collection Errors**: Data entry errors, along with inconsistencies in how field assessors interpreted instructions or assessed children’s activities, disrupted downstream analysis and affected the reliability of results.
 - **Recommended Solutions**: Implement a real-time monitoring to flag data entry issues and ensure greater accuracy during the collection process. Improve user interfaces with simplified workflows and intuitive design elements to reduce data entry errors and enhance usability.
   
-**User Empowerment**
+**Capacity Building**
 - **Limitation of Field Assessor Training**: Field assessors, spread across the country, required regular retraining to stay up to date with credentials and conduct assessments. In-person sessions were expensive, time-consuming, and limited in frequency, as they required a minimum number of participants to justify costs.
 - **Recommended Solution**: Explore a cost-effective method for field retraining, such as an online or hybrid solution, to address workforce demands and maintain consistency.
 - **Inefficient Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
