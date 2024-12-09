@@ -121,7 +121,7 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Recommended Solution**: Expand access to visualization tools (e.g. Power BI and Tableau) and automate reporting processes.
 
 **Project Management & Processes**
-- **Inefficient Coordination**: The lack of formal tools and workflows led to inefficiencies in task and resource management.
+- **Inefficient Coordination**: The lack of formal tools and workflows led to inefficiencies in task and resource management, resulting in delays and suboptimal allocation.
 - **Recommended Solution**: Introduce an integrated project management tool to improve collaboration and streamline workflows. Additionally, implement a decision-making framework to provide structured methodologies for selecting and funding ELOM assessments for organizations.
 - **Informal Processes**: The ELOM operations team worked without standardized workflows or clear processes, resulting in inconsistent task execution and gaps in data management practices.
 - **Recommended Solutions**: Develop and implement consistent workflows (e.g., a process for providing feedback to field assessors on the quality of assessments) and operational guidelines (e.g., deletion of completed forms once the data has been sent to the server). These measures will improve efficiency, ensure the quality of assessments, and enhance adherence to data governance.
