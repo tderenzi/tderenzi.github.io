@@ -111,9 +111,9 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Recommended Solutions**: Implement a real-time monitoring to flag data entry issues and ensure greater accuracy during the collection process. Improve user interfaces with simplified workflows and intuitive design elements to reduce data entry errors and enhance usability.
   
 **User Empowerment**
-- **Scalable Training for Field Assessors**: Field assessors, spread across the country, required regular retraining to stay up to date with credentials and conduct assessments. In-person sessions were expensive, time-consuming, and limited in frequency, as they required a minimum number of participants to justify costs.
+- **Limitation of Field Assessor Training**: Field assessors, spread across the country, required regular retraining to stay up to date with credentials and conduct assessments. In-person sessions were expensive, time-consuming, and limited in frequency, as they required a minimum number of participants to justify costs.
 - **Recommended Solution**: Explore a cost-effective method for field retraining, such as an online or hybrid solution, to address workforce demands and maintain consistency.
-- **Simplified Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
+- **Inefficient Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
 - **Recommended Solution**: Implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
 
 **Visualization Delays**
