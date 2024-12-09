@@ -104,7 +104,7 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 **System Efficiency**
 - **Fragmented Workflows**: Seven servers and four disconnected tools caused delays in data cleaning and analysis.
 - **Manual Errors & Security Risks**: Manual data transfers led to errors and risked exposing personally identifiable information (PII).
-- **Recommended Solution**: Implement a centralized system for device management, data collection form creation, and data storage to streamline workflows, enable real-time monitoring, and ensure compliance with privacy regulations.
+- **Recommended Solution**: Implement a centralized system (e.g. Ona, SurveyCTO, Open Data Kit) for data collection form creation, and data storage to streamline workflows, enable real-time monitoring, and ensure compliance with privacy regulations.
 
 **Data Quality**
 - **Collection Errors**: Data entry errors, along with inconsistencies in how field assessors interpreted instructions or assessed children’s activities, disrupted downstream analysis and affected the reliability of results.
@@ -114,10 +114,10 @@ Building on the strategy, this phase focused on designing, testing, and deployin
 - **Limitation of Field Assessor Training**: Field assessors, spread across the country, required regular retraining to stay up to date with credentials and conduct assessments. In-person sessions were expensive, time-consuming, and limited in frequency, as they required a minimum number of participants to justify costs.
 - **Recommended Solution**: Explore a cost-effective method for field retraining, such as an online or hybrid solution, to address workforce demands and maintain consistency.
 - **Inefficient Data Form Management**: The ELOM technical and operational team faced challenges in designing data collection forms due to limited access and complexity. Only one analyst could create forms, and this bottleneck delayed projects.
-- **Recommended Solution**: Implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
+- **Recommended Solution**: Create clear documentation and train ELOM team to create forms on exisiting system or implement a system with simplified form design and multi-user access to streamline workflows, enable quality assurance, and empower the team to contribute more effectively.
 
 **Data Visualization**
-- **Manual Reporting Process**: The method of generating ELOM reports was manual and labor-intensive, relying on Excel for data manipulation and Stata for coding. The sole ELOM data analyst had to manually input data, sort variables, and ensure correct placement, which led to errors and time-consuming efforts, and delayed outputs.
+- **Manual Reporting Process**: The method of generating ELOM reports was manual and labor-intensive, relying on Excel for data manipulation and visualization. The sole ELOM data analyst must manually input data, sort variables, and ensure correct placement, leading to potential errors, time-consuming efforts, and delayed outputs.
 - **Recommended Solution**: Expand access to visualization tools (e.g. Power BI and Tableau) and automate reporting processes.
 
 **Project Management & Processes**
