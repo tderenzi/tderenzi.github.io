@@ -2,13 +2,13 @@
 layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: Bill & Melinda Gates Foundation
-subtitle: Enhancing the technical and business development of novel sanitation systems.
+subtitle: Enhancing the Technical and Business Development of Novel Sanitation Systems.
 image: bmgf_toilet.jpg
 sort-order: 10
 sectionsConfig:
   - title: Intro
     layout: project_intro
-    banner: Enhancing the technical and business development of novel sanitation systems
+    banner: Enhancing the Technical and Business Development of Novel Sanitation Systems
     clientTitle: Organization
     client: Bill & Melinda Gates Foundation
     role: Senior Design Researcher and Team Lead
