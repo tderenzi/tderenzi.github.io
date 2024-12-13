@@ -2,13 +2,13 @@
 layout: layouts/project.njk
 permalink: /portfolio/{{ page.fileSlug }}/
 title: ELOM
-subtitle: Transforming a Data Management System To Operate at Scale.
+subtitle: Transforming Data Assessment Tools to Operate at Scale.
 image: ELOM image.png
 sort-order: 20
 sectionsConfig:
   - title: Intro
     layout: project_intro
-    banner: Transforming a Data Management System To Operate at Scale
+    banner: Transforming Data Assessment Tools to Operate at Scale
     clientTitle: Organizations
     client: Early Learning Outcome Measurement (ELOM), now part of Data Drive 2030 and Innovation Edge
     role: Head of Data Strategy & Lead UX Researcher
