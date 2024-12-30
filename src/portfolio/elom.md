@@ -13,7 +13,7 @@ sectionsConfig:
     client: Early Learning Outcome Measurement (ELOM), now part of Data Drive 2030 and Innovation Edge
     role: Head of Data Strategy & Lead UX Researcher
     timeline: 8 months
-    scope: Data Strategy, System Design, Discovery & Evaluative Research
+    scope: Data Strategy, System Design, Generative & Evaluative Research
   - title: About the project
     image: ELOM stakeholders.png
 ---
