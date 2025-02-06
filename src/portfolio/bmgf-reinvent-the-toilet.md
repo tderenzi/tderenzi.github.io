@@ -113,5 +113,5 @@ Using the insights gained from data analysis, I created detailed **summaries of 
 
 - **Market Opportunity Identification**: Determined that **Nigeria presented a stronger market for Reinvented Toilets (RTs) compared to Kenya**, due to higher demand for reliable basic services like electricity, and a less established sanitation market.
 
-- **Strategic Investment Recommendations**: Provided the foundation with **insights to guide $200 million in future grant investments**, recommending projects such as multi-unit toilets and technologies that could produce electricity as a byproduct, aligning future development with market needs.
+- **Strategic Investment Recommendations**: Provided the foundation with **insights to guide in future grant investments**, recommending projects such as multi-unit toilets and technologies that could produce electricity as a byproduct, aligning future development with market needs.
 
